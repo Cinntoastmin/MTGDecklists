@@ -1,0 +1,93 @@
+1 [EXO:128] Spike Weaver
+1 [C15:32] Arachnogenesis
+1 [RAV:158] Doubling Season
+1 [RAV:279] Overgrown Tomb
+1 [EVE:177] Flooded Grove
+1 [M11:102] Liliana Vess
+1 [C14:19] Teferi, Temporal Archmage
+1 [NPH:166] Plains
+1 [MPS:8] Chromatic Lantern
+4 [NPH:169] Island
+1 [PLC:85] Damnation
+3 [NPH:167] Plains
+1 [TSP:135] Sudden Spoiling
+1 [C16:7] Deepglow Skate
+1 [VMA:289] Ancient Tomb
+1 [DTK:225] Narset Transcendent
+1 [BNG:149] Kiora, the Crashing Wave
+1 [DDI:1] Venser, the Sojourner
+1 [ORI:189] Nissa, Vastwood Seer
+1 [RTR:35] Cyclonic Rift
+1 [VMA:74] Jace, the Mind Sculptor
+1 [NPH:17] Norn's Annex
+1 [THS:9] Elspeth, Sun's Champion
+1 [GTC:242] Godless Shrine
+1 [OGW:16] Call the Gatewatch
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [GTC:6] Blind Obedience
+1 [FNMP:94] Eternal Witness
+1 [C16:164] Sakura-Tribe Elder
+1 [OGW:138] Nissa, Voice of Zendikar
+1 [DIS:172] Breeding Pool
+1 [MPS:21] Rings of Brighthearth
+1 [M15:187] Nissa, Worldwaker
+1 [MPS:24] Sol Ring
+1 [M15:210] Garruk, Apex Predator
+1 [MM2:65] Thrummingbird
+1 [MPS:25] Solemn Simulacrum
+1 [CON:87] Noble Hierarch
+1 [M15:215] The Chain Veil
+1 [CNS:206] Vedalken Orrery
+1 [EMN:99] Oath of Liliana
+1 [KLD:179] Dovin Baan
+1 [EMN:190] Tamiyo, Field Researcher
+1 [SOI:242] Anguished Unmaking
+1 [CHK:268] Sensei's Divining Top
+1 [SOM:6] Elspeth Tirel
+1 [M11:58] Jace Beleren
+1 [SOI:69] Jace, Unraveler of Secrets
+1 [THS:188] Ashiok, Nightmare Weaver
+1 [SHM:113] Farhaven Elf
+1 [SHM:278] Reflecting Pool
+1 [KTK:249] Wooded Foothills
+1 [MPRP:31] Cryptic Command
+1 [EMA:38] Wrath of God
+1 [M12:174] Garruk, Primal Hunter
+1 [ROE:21] Gideon Jura
+1 [C14:4] Comeuppance
+1 [OGW:140] Oath of Nissa
+1 [RTR:248] Temple Garden
+1 [FRF:1] Ugin, the Spirit Dragon
+1 [ISD:240] Ghost Quarter
+1 [RTR:208] Vraska the Unseen
+1 [SOI:251] Sorin, Grim Nemesis
+1 [DDF:63] Contagion Clasp
+1 [BFZ:213] Kiora, Master of the Depths
+1 [THS:180] Sylvan Caryatid
+1 [FUT:161] Coalition Relic
+1 [BFZ:119] Ob Nixilis Reignited
+1 [BFZ:239] Lumbering Falls
+1 [MMA:13] Elspeth, Knight-Errant
+1 [EMA:246] Thornwood Falls
+1 [AVR:79] Tamiyo, the Moon Sage
+1 [GTC:249] Watery Grave
+2 [NPH:170] Swamp
+1 [NPH:171] Swamp
+1 [10E:252] Birds of Paradise
+1 [KTK:239] Polluted Delta
+1 [ARB:129] Wargate
+4 [NPH:174] Forest
+1 [NPH:175] Forest
+1 [C16:147] Den Protector
+1 [RTR:241] Hallowed Fountain
+1 [KTK:233] Flooded Strand
+1 [MMA:221] City of Brass
+1 [VMA:316] Strip Mine
+1 [KTK:230] Bloodstained Mire
+1 [SOI:226] Seasons Past
+1 [MMA:227] Vivid Grove
+1 [VMA:313] Scrubland
+1 [SOM:145] Contagion Engine
+SB: 1 [C16:28] Atraxa, Praetors' Voice
+LAYOUT MAIN:(1,9)(CMC,false,50)|([VMA:313],[VMA:289],[MMA:221],[KTK:230],[SHM:278],[RTR:241],[DIS:172],[KTK:233],[RAV:279],[GTC:249],[GTC:242],[RTR:248],[KTK:239],[KTK:249],[VMA:316],[MMA:227],[BFZ:239],[EVE:177],[EMA:246],[ISD:240],[NPH:174],[NPH:175],[NPH:174],[NPH:174],[NPH:174],[NPH:169],[NPH:169],[NPH:169],[NPH:169],[NPH:167],[NPH:167],[NPH:166],[NPH:167],[NPH:170],[NPH:170],[NPH:171])([10E:252],[MPS:24],[CHK:268],[OGW:140],[CON:87])([C16:147],[C16:164],[MM2:65],[THS:180],[DDF:63],[RTR:35],[GTC:6])([M11:58],[ORI:189],[FNMP:94],[SHM:113],[MPS:8],[MPS:21],[FUT:161],[SOI:242],[TSP:135],[C15:32],[OGW:16],[ARB:129],[EMN:99],[OGW:138],[THS:188])([MPS:25],[EXO:128],[M15:215],[CNS:206],[MPRP:31],[C14:4],[PLC:85],[EMA:38],[VMA:74],[BFZ:213],[BNG:149],[EMN:190],[KLD:179],[BFZ:29],[DTK:225],[MMA:13])([C16:7],[NPH:17],[RAV:158],[SOI:69],[M15:187],[AVR:79],[M12:174],[BFZ:119],[ROE:21],[M11:102],[DDI:1],[SOM:6],[RTR:208])([SOM:145],[SOI:226],[C14:19],[SOI:251],[THS:9])([M15:210])([FRF:1])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([C16:28])

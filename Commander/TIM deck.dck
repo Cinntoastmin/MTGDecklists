@@ -1,0 +1,95 @@
+1 [EVE:66] Bloom Tender
+1 [CHK:167] Frostwielder
+1 [CMD:272] Evolving Wilds
+1 [PLS:111] Hull Breach
+1 [M10:211] Gorgon Flail
+1 [C16:331] Temple of the False God
+1 [FNMP:66] Counterspell
+1 [SCG:45] Pemmin's Aura
+1 [C16:332] Terramorphic Expanse
+1 [TSP:70] Ophidian Eye
+4 [NPH:169] Island
+1 [10E:66] Arcanis the Omnipotent
+3 [NPH:168] Island
+1 [VMA:325] Yavimaya Hollow
+1 [CMD:109] Anger
+1 [9ED:60] Archivist
+1 [ME4:106] Aladdin
+1 [VMA:321] Tropical Island
+1 [MIR:153] Worldly Tutor
+1 [VMA:324] Volcanic Island
+1 [CHK:65] Hinder
+1 [GPT:150] Gruul Signet
+1 [V13:7] Thran Dynamo
+1 [INV:54] Empress Galina
+1 [GTC:243] Gruul Guildgate
+1 [GPT:158] Gruul Turf
+1 [M14:50] Dismiss into Dream
+1 [CHK:279] Minamo, School at Water's Edge
+1 [KLD:174] Wildest Dreams
+1 [SOK:38] Freed from the Real
+1 [RAV:60] Muddle the Mixture
+1 [ICE:111] Zuran Spellcaster
+1 [WWK:110] Quest for Renewal
+1 [EXO:33] Ertai, Wizard Adept
+1 [RTR:180] Mercurial Chemister
+1 [ONS:81] Disruptive Pitmage
+1 [MPS:24] Sol Ring
+1 [PTC:21] Sword of Kaldra
+1 [MIR:169] Dwarven Miner
+1 [C13:266] Thousand-Year Elixir
+1 [LEB:123] Regrowth
+1 [VMA:212] Genesis
+1 [5DN:85] Dawn's Reflection
+1 [USG:233] Argothian Elder
+1 [USG:69] Disruptive Student
+1 [V12:5] Dryad Arbor
+1 [BNG:150] Kiora's Follower
+1 [DGM:156] Simic Guildgate
+1 [GTC:231] Illusionist's Bracers
+1 [THS:224] Temple of Abandon
+1 [AVR:45] Captain of the Mists
+1 [ALA:43] Fatestitcher
+1 [EVE:156] Murkfiend Liege
+1 [8ED:72] Curiosity
+1 [DIS:162] Magewright's Stone
+1 [TMP:294] Puppet Strings
+1 [M11:172] Fauna Shaman
+1 [C16:317] Rootbound Crag
+1 [RTR:242] Izzet Guildgate
+1 [VMA:306] Mountain Valley
+1 [C16:319] Rupture Spire
+1 [APC:119] Razorfin Hunter
+1 [PD2:11] Vulshok Sorcerer
+1 [JOU:130] Market Festival
+1 [WWK:41] Tideforce Elemental
+1 [ODY:89] Patron Wizard
+1 [5DN:156] Staff of Domination
+1 [CN2:219] Exotic Orchard
+2 [NPH:172] Mountain
+1 [EMA:62] Mystical Tutor
+1 [NPH:173] Mountain
+1 [SHM:267] Umbral Mantle
+1 [10E:296] Seedborn Muse
+1 [10E:252] Birds of Paradise
+1 [EMA:67] Prodigal Sorcerer
+2 [NPH:174] Forest
+1 [10E:98] Puppeteer
+1 [UDS:40] Opposition
+1 [10E:214] Kamahl, Pit Fighter
+1 [M11:152] Prodigal Pyromancer
+1 [EMA:241] Maze of Ith
+1 [CHK:52] Azami, Lady of Scrolls
+1 [V13:19] Green Sun's Zenith
+1 [VMA:317] Taiga
+1 [MMA:225] Vivid Crag
+1 [MMA:226] Vivid Creek
+1 [VMA:234] Survival of the Fittest
+1 [MMA:227] Vivid Grove
+1 [BNG:47] Oracle's Insight
+1 [DKA:44] Niblis of the Breath
+1 [EXP:9] Stomping Ground
+1 [ULG:95] Viashino Heretic
+SB: 1 [CMD:220] Riku of Two Reflections
+LAYOUT MAIN:(1,8)(CMC,false,50)|([CMD:272],[CN2:219],[EXP:9],[GTC:243],[GPT:158],[RTR:242],[EMA:241],[CHK:279],[VMA:306],[C16:317],[C16:319],[DGM:156],[VMA:317],[THS:224],[C16:331],[C16:332],[VMA:321],[MMA:225],[MMA:226],[MMA:227],[VMA:324],[VMA:325],[NPH:174],[NPH:174],[NPH:169],[NPH:169],[NPH:169],[NPH:169],[NPH:168],[NPH:168],[NPH:168],[NPH:172],[NPH:173],[NPH:172],[V12:5])([EMA:62],[MIR:153],[8ED:72],[MPS:24],[V13:19],[KLD:174],[10E:252])([APC:119],[WWK:110],[EVE:66],[MIR:169],[M11:172],[BNG:150],[FNMP:66],[RAV:60],[VMA:234],[M10:211],[GTC:231],[DIS:162],[PLS:111],[LEB:123],[GPT:150])([AVR:45],[ONS:81],[USG:69],[EXO:33],[DKA:44],[ODY:89],[M11:152],[EMA:67],[10E:98],[WWK:41],[ULG:95],[PD2:11],[ICE:111],[CHK:65],[SOK:38],[TSP:70],[SCG:45],[TMP:294],[5DN:156],[C13:266],[SHM:267])([ME4:106],[CMD:109],[9ED:60],[USG:233],[ALA:43],[CHK:167],[5DN:85],[JOU:130],[BNG:47],[PTC:21],[V13:7],[UDS:40])([CHK:52],[INV:54],[VMA:212],[RTR:180],[EVE:156],[10E:296])([10E:66],[10E:214])([M14:50])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CMD:220])

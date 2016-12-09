@@ -1,0 +1,90 @@
+NAME:Bant Superfriends
+1 [OGW:60] Oath of Jace
+1 [ALA:221] Bant Panorama
+1 [RAV:158] Doubling Season
+1 [C15:281] Command Tower
+1 [KLD:244] Botanical Sanctum
+1 [JOU:145] Ajani, Mentor of Heroes
+1 [M11:225] Glacial Fortress
+1 [ZEN:220] Misty Rainforest
+1 [C14:19] Teferi, Temporal Archmage
+1 [3ED:297] Savannah
+1 [CNS:84] Swords to Plowshares
+1 [DIS:174] Hallowed Fountain
+1 [EMN:20] Deploy the Gatewatch
+1 [UGIN:1] Ugin, the Spirit Dragon
+1 [DTK:225] Narset Transcendent
+1 [BNG:149] Kiora, the Crashing Wave
+1 [GTC:203] Unexpected Results
+1 [VMA:74] Jace, the Mind Sculptor
+1 [ORI:189] Nissa, Vastwood Seer
+1 [NPH:17] Norn's Annex
+1 [THS:9] Elspeth, Sun's Champion
+1 [OGW:16] Call the Gatewatch
+1 [VMA:283] Sol Ring
+1 [INV:278] Sterling Grove
+1 [DIS:172] Breeding Pool
+1 [UDS:1] Academy Rector
+1 [KTK:34] Clever Impersonator
+1 [TSP:272] Flagstones of Trokair
+1 [CNS:206] Vedalken Orrery
+1 [EMN:190] Tamiyo, Field Researcher
+1 [ZEN:9] Day of Judgment
+1 [EMA:232] Sensei's Divining Top
+1 [CMD:8] Austere Command
+1 [CMD:40] Brainstorm
+1 [MMA:25] Path to Exile
+1 [C15:183] Eternal Witness
+5 [UNH:140] Forest
+1 [MM2:4] Karn Liberated
+1 [SHM:278] Reflecting Pool
+1 [KTK:248] Windswept Heath
+1 [C13:318] Seaside Citadel
+1 [C15:301] Reliquary Tower
+1 [10E:302] Sylvan Scrying
+1 [EMA:38] Wrath of God
+1 [M13:186] Ranger's Path
+1 [C15:105] Rite of Replication
+1 [RTR:201] Supreme Verdict
+1 [OGW:140] Oath of Nissa
+1 [RTR:200] Sphinx's Revelation
+1 [C15:108] Stroke of Genius
+1 [AVR:225] Alchemist's Refuge
+1 [RTR:248] Temple Garden
+1 [3ED:304] Tundra
+1 [ISD:241] Hinterland Harbor
+1 [3ED:303] Tropical Island
+6 [UNH:136] Plains
+1 [SOM:135] Venser, the Sojourner
+5 [UNH:137] Island
+1 [AVR:38] Terminus
+1 [M10:228] Sunpetal Grove
+1 [MMA:13] Elspeth, Knight-Errant
+1 [C14:43] Freyalise, Llanowar's Fury
+1 [ALA:155] Bant Charm
+1 [C15:61] Banishing Light
+1 [OGW:30] Oath of Gideon
+1 [GTC:204] Urban Evolution
+1 [ARB:129] Wargate
+1 [NEM:117] Skyshroud Claim
+1 [MIR:218] Enlightened Tutor
+1 [CNS:189] Mirari's Wake
+1 [KTK:233] Flooded Strand
+1 [RAV:163] Farseek
+1 [C14:47] Song of the Dryads
+1 [CN2:174] Beast Within
+1 [RTR:155] Detention Sphere
+1 [MOR:12] Idyllic Tutor
+1 [CN2:22] Recruiter of the Guard
+1 [SOM:229] Seachrome Coast
+1 [PC2:123] Krosan Verge
+1 [SOM:228] Razorverge Thicket
+1 [LRW:259] Rings of Brighthearth
+1 [RTR:44] Jace, Architect of Thought
+1 [M11:61] Leyline of Anticipation
+1 [SOM:145] Contagion Engine
+1 [LRW:71] Jace Beleren
+1 [LRW:213] Garruk Wildspeaker
+SB: 1 [C13:186] Derevi, Empyrial Tactician
+LAYOUT MAIN:(1,9)(CMC,false)|([3ED:303],[3ED:304],[3ED:297],[ZEN:220],[KTK:233],[KTK:248],[DIS:172],[DIS:174],[RTR:248],[C15:281],[M10:228],[M11:225],[ISD:241],[PC2:123],[C15:301],[C13:318],[SOM:229],[SOM:228],[KLD:244],[SHM:278],[TSP:272],[ALA:221],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[AVR:225])([CMD:40],[EMA:232],[OGW:140],[MIR:218],[MMA:25],[CNS:84],[VMA:283])([RAV:163],[10E:302],[INV:278])([OGW:16],[OGW:60],[OGW:30],[ALA:155],[CN2:174],[RTR:200],[C15:108],[LRW:259],[MOR:12],[ARB:129],[LRW:71],[C15:183],[ORI:189],[CN2:22],[C15:61],[RTR:155],[C14:47])([NEM:117],[ZEN:9],[M13:186],[C15:105],[RTR:201],[GTC:203],[EMA:38],[MMA:13],[LRW:213],[RTR:44],[VMA:74],[BNG:149],[DTK:225],[EMN:190],[UDS:1],[KTK:34],[M11:61],[CNS:206])([RAV:158],[NPH:17],[GTC:204],[JOU:145],[C14:43],[SOM:135],[CNS:189])([SOM:145],[CMD:8],[EMN:20],[AVR:38],[THS:9],[C14:19])([MM2:4])([UGIN:1])
+LAYOUT SIDEBOARD:(1,1)(NONE,false)|([C13:186])

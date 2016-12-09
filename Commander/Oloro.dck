@@ -1,0 +1,88 @@
+1 [BFZ:107] Defiant Bloodlord
+1 [ALA:220] Arcane Sanctum
+1 [M11:3] Ajani's Pridemate
+1 [CNS:190] Mortify
+1 [V12:7] Glacial Chasm
+1 [10E:61] Wrath of God
+1 [C14:104] Cyclonic Rift
+1 [GPT:155] Orzhov Signet
+1 [DST:159] Well of Lost Dreams
+1 [DIS:174] Hallowed Fountain
+1 [RTR:226] Chromatic Lantern
+1 [TOR:139] Cabal Coffers
+1 [BFZ:26] Felidar Sovereign
+1 [EMA:207] Sphinx of the Steel Wind
+1 [M13:32] Serra Avatar
+1 [ULG:63] Phyrexian Reclamation
+1 [V13:2] Swords to Plowshares
+1 [GTC:242] Godless Shrine
+1 [DD3JVC:24] Counterspell
+1 [ORI:221] Alhammarret's Archive
+1 [VMA:283] Sol Ring
+1 [GTC:6] Blind Obedience
+1 [KLD:15] Fumigate
+1 [CON:116] Magister Sphinx
+1 [M14:5] Archangel of Thune
+1 [CMD:269] Command Tower
+1 [C15:46] Karlov of the Ghost Council
+1 [C14:314] Temple of the False God
+1 [KTK:210] Utter End
+1 [DKA:137] Drogskol Reaver
+1 [C13:187] Dromar's Charm
+1 [DGM:64] Debt to the Deathless
+1 [VMA:130] Necropotence
+1 [RTR:24] Sphere of Safety
+1 [KLD:179] Dovin Baan
+1 [SOI:242] Anguished Unmaking
+1 [C15:55] Thought Vessel
+1 [PCY:45] Rhystic Study
+1 [MBS:21] Consecrated Sphinx
+1 [BFZ:249] Sunken Hollow
+1 [KLD:183] Kambal, Consul of Allocation
+1 [EMA:238] Dismal Backwater
+1 [M13:227] Reliquary Tower
+1 [THS:227] Temple of Silence
+1 [RTR:201] Supreme Verdict
+1 [RTR:200] Sphinx's Revelation
+1 [M14:112] Sanguine Bond
+1 [GTC:182] Obzedat, Ghost Council
+1 [CON:15] Path to Exile
+1 [DIS:159] Azorius Signet
+1 [ALL:192] Lim-Dul's Vault
+1 [ISD:242] Isolated Chapel
+1 [HOP:36] Phyrexian Arena
+1 [BFZ:210] Drana's Emissary
+1 [PLC:165] Urborg, Tomb of Yawgmoth
+1 [EMA:108] Toxic Deluge
+1 [THS:85] Erebos, God of the Dead
+7 [UNH:136] Plains
+1 [AVR:38] Terminus
+3 [UNH:137] Island
+7 [UNH:138] Swamp
+1 [EMA:244] Scoured Barrens
+1 [M13:29] Rhox Faithmender
+1 [C14:85] Return to Dust
+1 [M10:226] Glacial Fortress
+1 [GTC:206] Vizkopa Guildmage
+1 [KLD:75] Diabolic Tutor
+1 [M10:224] Drowned Catacomb
+1 [KTK:239] Polluted Delta
+1 [CMD:246] Dimir Signet
+1 [TMP:80] Propaganda
+1 [KLD:192] Aetherflux Reservoir
+1 [KTK:233] Flooded Strand
+1 [OGW:153] Cliffhaven Vampire
+1 [MMA:188] Divinity of Pride
+1 [VMA:116] Demonic Tutor
+1 [ZEN:219] Marsh Flats
+1 [CON:20] Wall of Reverence
+1 [C13:240] Crawlspace
+1 [CHK:10] Ghostly Prison
+1 [VMA:313] Scrubland
+1 [BFZ:241] Prairie Stream
+1 [GTC:177] Merciless Eviction
+1 [ME4:256] Underground Sea
+1 [ME4:255] Tundra
+SB: 1 [C13:203] Oloro, Ageless Ascetic
+LAYOUT MAIN:(1,9)(CMC,false)|([ALA:220],[CMD:269],[EMA:238],[M10:224],[M10:226],[GTC:242],[DIS:174],[ISD:242],[VMA:313],[ME4:255],[ME4:256],[BFZ:241],[M13:227],[EMA:244],[BFZ:249],[THS:227],[C14:314],[PLC:165],[TOR:139],[UNH:137],[UNH:137],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[KTK:239],[KTK:233],[ZEN:219],[UNH:137],[V12:7])([CON:15],[V13:2],[VMA:283],[ULG:63])([M11:3],[C15:46],[GTC:206],[DD3JVC:24],[C14:104],[ALL:192],[VMA:116],[DIS:159],[CMD:246],[GPT:155],[C15:55],[GTC:6])([BFZ:210],[KLD:183],[SOI:242],[C13:187],[CNS:190],[RTR:200],[EMA:108],[RTR:226],[C13:240],[CHK:10],[VMA:130],[HOP:36],[TMP:80],[PCY:45])([OGW:153],[THS:85],[M13:29],[CON:20],[C14:85],[KTK:210],[DGM:64],[KLD:75],[RTR:201],[10E:61],[KLD:192],[DST:159],[KLD:179])([MMA:188],[GTC:182],[KLD:15],[ORI:221],[M14:112],[RTR:24],[M14:5])([BFZ:26],[GTC:177],[AVR:38],[MBS:21])([BFZ:107],[DKA:137],[CON:116],[M13:32])([EMA:207])
+LAYOUT SIDEBOARD:(1,1)(NONE,false)|([C13:203])

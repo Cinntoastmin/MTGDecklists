@@ -1,0 +1,17 @@
+1 [SOM:176] Mindslaver
+1 [5DN:134] Krark-Clan Ironworks
+1 [C14:54] Commander's Sphere
+1 [MMA:12] Dispeller's Capsule
+1 [ALA:75] Executioner's Capsule
+1 [CMD:269] Command Tower
+1 [C16:278] Trading Post
+1 [ALA:37] Courier's Capsule
+1 [MMA:196] Aether Spellbomb
+1 [PTC:46] Wurmcoil Engine
+1 [MPS:24] Sol Ring
+1 [BFZ:223] Hedron Archive
+1 [SOM:210] Sylvok Replica
+SB: 1 [C16:43] Silas Renn, Seeker Adept
+SB: 1 [C16:42] Sidar Kondo of Jamuraa
+LAYOUT MAIN:(1,6)(CMC,false,50)|([CMD:269])([MMA:12],[ALA:75],[MPS:24],[MMA:196])([ALA:37])([SOM:210],[C14:54])([C16:278],[BFZ:223],[5DN:134])([SOM:176],[PTC:46])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([C16:42],[C16:43])

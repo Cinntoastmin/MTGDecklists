@@ -1,0 +1,91 @@
+1 [RTR:71] Necropolis Regent
+1 [MPS:5] Verdurous Gearhulk
+1 [FUT:171] Llanowar Reborn
+1 [EMA:177] Natural Order
+1 [DTK:181] Den Protector
+1 [RAV:158] Doubling Season
+1 [THS:166] Nylea, God of the Hunt
+1 [SHM:135] Woodfall Primus
+1 [C16:331] Temple of the False God
+1 [C16:332] Terramorphic Expanse
+1 [C14:305] Oran-Rief, the Vastwood
+1 [MPS:30] Sword of Light and Shadow
+1 [DKA:124] Predator Ooze
+1 [RTR:222] Slitherhead
+1 [M14:210] Fireshrieker
+1 [DKA:70] Mikaeus, the Unhallowed
+1 [FNMP:123] Krosan Grip
+1 [SOI:233] Tireless Tracker
+1 [AVR:168] Blessings of Nature
+1 [SOI:234] Traverse the Ulvenwald
+1 [DKA:120] Increasing Savagery
+1 [VMA:281] Skullclamp
+1 [CON:144] Rupture Spire
+1 [LRW:240] Vigor
+1 [CMD:140] Acidic Slime
+1 [C16:280] Whispersilk Cloak
+1 [FNMP:94] Eternal Witness
+1 [EMA:84] Carrion Feeder
+1 [CMD:145] Brawn
+1 [CMD:269] Command Tower
+1 [CMD:148] Cultivate
+1 [EXP:13] Overgrown Tomb
+1 [C16:168] Solidarity of Heroes
+1 [9ED:245] Greater Good
+1 [FNMP:53] Reanimate
+1 [RAV:262] Golgari Signet
+1 [ZEN:196] Blade of the Bloodchief
+1 [MPS:24] Sol Ring
+1 [KTK:133] Hardened Scales
+1 [MPS:28] Sword of Feast and Famine
+1 [MPS:29] Sword of Fire and Ice
+1 [M13:88] Disciple of Bolas
+1 [DGM:112] Varolz, the Scar-Striped
+1 [VMA:293] Bayou
+1 [MRD:74] Promise of Power
+1 [C16:190] Corpsejack Menace
+1 [TPR:248] Volrath's Stronghold
+1 [JOU:165] Temple of Malady
+1 [C16:154] Kalonian Hydra
+1 [C16:276] Swiftfoot Boots
+1 [C16:157] Managorger Hydra
+1 [C16:312] Opal Palace
+1 [RTR:175] Jarad's Orders
+1 [RTR:174] Jarad, Golgari Lich Lord
+1 [SCG:115] Decree of Savagery
+1 [ROE:176] Awakening Zone
+1 [RTR:245] Rogue's Passage
+1 [MPS:14] Lightning Greaves
+1 [VMA:227] Regrowth
+1 [MPRP:24] Damnation
+1 [M15:244] Llanowar Wastes
+1 [CN2:182] Forgotten Ancient
+1 [MPRP:28] Harmonize
+1 [CN2:180] Explosive Vegetation
+1 [AVR:226] Cavern of Souls
+1 [DTK:248] Evolving Wilds
+1 [DTK:120] Sidisi, Undead Vizier
+1 [CN2:144] Phyrexian Arena
+1 [HOP:72] Fertilid
+1 [DD3GVL:17] Nature's Lore
+1 [KLD:194] Animation Module
+1 [EMA:248] Wasteland
+4 [NPH:170] Swamp
+3 [NPH:171] Swamp
+1 [M13:215] Ring of Xathrid
+3 [NPH:174] Forest
+5 [NPH:175] Forest
+1 [ZEN:172] Oracle of Mul Daya
+1 [10E:332] Loxodon Warhammer
+1 [M13:185] Rancor
+1 [VMA:116] Demonic Tutor
+1 [MPRP:14] Putrefy
+1 [MMA:227] Vivid Grove
+1 [EVE:117] Creakwood Liege
+1 [MBS:104] Darksteel Plate
+1 [SOI:220] Obsessive Skinner
+1 [THS:170] Ordeal of Nylea
+1 [BFZ:167] From Beyond
+SB: 1 [CMD:227] Skullbriar, the Walking Grave
+LAYOUT MAIN:(1,9)(CMC,false,50)|([CMD:269],[C16:312],[FUT:171],[RTR:245],[EXP:13],[VMA:293],[EMA:248],[C16:332],[DTK:248],[TPR:248],[C14:305],[C16:331],[M15:244],[JOU:165],[AVR:226],[MMA:227],[CON:144],[NPH:174],[NPH:174],[NPH:175],[NPH:175],[NPH:174],[NPH:175],[NPH:175],[NPH:175],[NPH:170],[NPH:170],[NPH:170],[NPH:170],[NPH:171],[NPH:171],[NPH:171])([MPS:24],[KTK:133],[M13:185],[RTR:222],[KLD:194],[VMA:281],[ZEN:196],[FNMP:53],[SOI:234],[EMA:84])([C16:168],[M13:215],[MPS:14],[C16:276],[VMA:116],[SOI:220],[THS:170],[RAV:262],[VMA:227],[DTK:181],[DD3GVL:17])([10E:332],[DGM:112],[MPRP:14],[CN2:144],[C16:280],[CMD:148],[FNMP:123],[FNMP:94],[C16:157],[DKA:124],[HOP:72],[SOI:233],[M14:210],[MBS:104],[MPS:28],[MPS:29],[MPS:30],[ROE:176])([C16:190],[DKA:120],[CN2:182],[EVE:117],[RTR:174],[CMD:145],[THS:166],[M13:88],[9ED:245],[BFZ:167],[MPRP:28],[MPRP:24],[EMA:177],[ZEN:172],[CN2:180],[RTR:175])([MPS:5],[CMD:140],[C16:154],[DTK:120],[AVR:168],[RAV:158],[MRD:74])([RTR:71],[LRW:240],[DKA:70])([SHM:135])([SCG:115])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CMD:227])

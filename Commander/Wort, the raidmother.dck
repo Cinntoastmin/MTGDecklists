@@ -1,0 +1,80 @@
+1 [C15:32] Arachnogenesis
+1 [RAV:158] Doubling Season
+1 [THS:209] Xenagos, the Reveler
+1 [C16:331] Temple of the False God
+1 [CMD:114] Chaos Warp
+1 [CMD:117] Comet Storm
+1 [MMA:152] Krosan Grip
+1 [ISD:140] Devil's Play
+1 [CN2:162] Guttersnipe
+1 [HOP:56] Goblin Offensive
+1 [MBP:105] Shamanic Revelation
+1 [GPT:150] Gruul Signet
+1 [DTK:186] Explosive Vegetation
+1 [GTC:247] Stomping Ground
+1 [CN2:201] Dragonlair Spider
+1 [VMA:281] Skullclamp
+1 [BFZ:235] Cinder Glade
+1 [C16:21] Benefactor's Draught
+1 [BFZ:217] Omnath, Locus of Rage
+1 [KLD:174] Wildest Dreams
+1 [EMA:147] Siege-Gang Commander
+1 [AVR:172] Craterhoof Behemoth
+1 [FNMP:94] Eternal Witness
+1 [CMD:269] Command Tower
+1 [MPS:24] Sol Ring
+1 [M13:162] Boundless Realms
+1 [GTC:151] Clan Defiance
+1 [ISD:199] Parallel Lives
+1 [FNMP:153] Reliquary Tower
+1 [ZEN:159] Beastmaster Ascension
+1 [MPRP:37] Rampant Growth
+1 [SOI:200] Cryptolith Rite
+1 [WWK:96] Avenger of Zendikar
+1 [FNMP:115] Sakura-Tribe Elder
+1 [SOM:122] Genesis Wave
+1 [EMA:155] Young Pyromancer
+1 [CHK:225] Kodama's Reach
+1 [THS:224] Temple of Abandon
+1 [C16:193] Decimate
+1 [V10:9] Mirari
+1 [ONS:218] Mana Echoes
+1 [RTR:95] Goblin Rally
+1 [M13:228] Rootbound Crag
+1 [M11:168] Cultivate
+1 [M13:145] Reverberate
+1 [NPH:81] Chancellor of the Forge
+1 [CON:58] Banefire
+1 [VMA:227] Regrowth
+1 [MPS:14] Lightning Greaves
+1 [TPR:172] Harrow
+1 [HOP:134] Gruul Turf
+1 [MPRP:28] Harmonize
+1 [DTK:167] Volcanic Vision
+1 [KLD:109] Cathartic Reunion
+1 [THS:135] Purphoros, God of the Forge
+1 [V13:20] Kessig Wolf Run
+8 [NPH:172] Mountain
+6 [NPH:173] Mountain
+1 [SHM:222] Vexing Shusher
+1 [M13:139] Krenko's Command
+1 [M13:138] Krenko, Mob Boss
+1 [C15:29] Mizzix's Mastery
+5 [NPH:174] Forest
+1 [NEM:117] Skyshroud Claim
+7 [NPH:175] Forest
+1 [KTK:112] Howl of the Horde
+1 [CN2:174] Beast Within
+1 [C13:125] Tempt with Vengeance
+1 [KTK:111] Hordeling Outburst
+1 [HOP:89] Hull Breach
+1 [TSP:175] Reiterate
+1 [DTK:135] Dragon Fodder
+1 [PTC:40] Dragon Broodmother
+1 [VMA:235] Sylvan Library
+1 [SOI:227] Second Harvest
+1 [EMA:119] Beetleback Chief
+1 [ORI:236] Pyromancer's Goggles
+SB: 1 [SHM:223] Wort, the Raidmother
+LAYOUT MAIN:(1,9)(CMC,false,50)|([BFZ:235],[CMD:269],[HOP:134],[V13:20],[FNMP:153],[M13:228],[GTC:247],[THS:224],[C16:331],[NPH:175],[NPH:175],[NPH:175],[NPH:175],[NPH:175],[NPH:174],[NPH:175],[NPH:174],[NPH:174],[NPH:174],[NPH:175],[NPH:174],[NPH:173],[NPH:173],[NPH:172],[NPH:172],[NPH:172],[NPH:172],[NPH:172],[NPH:172],[NPH:173],[NPH:172],[NPH:173],[NPH:173],[NPH:172],[NPH:173])([CON:58],[ISD:140],[C13:125],[KLD:174],[VMA:281],[MPS:24])([FNMP:115],[SHM:222],[EMA:155],[C16:21],[CMD:117],[M13:145],[KLD:109],[GTC:151],[DTK:135],[HOP:89],[M13:139],[MPRP:37],[VMA:227],[GPT:150],[MPS:14],[SOI:200],[VMA:235])([FNMP:94],[CN2:162],[C15:32],[CN2:174],[CMD:114],[TPR:172],[MMA:152],[TSP:175],[M11:168],[HOP:56],[KTK:111],[KTK:112],[CHK:225],[ZEN:159],[SOM:122])([EMA:119],[M13:138],[THS:135],[SOI:227],[C16:193],[DTK:186],[MPRP:28],[C15:29],[NEM:117],[ONS:218],[ISD:199],[THS:209])([EMA:147],[RTR:95],[MBP:105],[V10:9],[ORI:236],[RAV:158])([PTC:40],[CN2:201])([WWK:96],[NPH:81],[BFZ:217],[M13:162],[DTK:167])([AVR:172])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([SHM:223])

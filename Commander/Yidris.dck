@@ -1,0 +1,90 @@
+1 [C14:54] Commander's Sphere
+1 [CMD:272] Evolving Wilds
+1 [C16:52] Boompile
+1 [THS:204] Spellheart Chimera
+1 [ALA:222] Crumbling Necropolis
+1 [10E:360] Terramorphic Expanse
+1 [SCG:87] Dragon Mage
+1 [C16:18] Frenzied Fugue
+1 [CMD:114] Chaos Warp
+1 [C16:15] Parting Thoughts
+1 [MPS:8] Chromatic Lantern
+2 [NPH:169] Island
+1 [C16:13] Curtains' Call
+1 [C16:56] Ash Barrens
+1 [M15:198] Satyr Wayfinder
+1 [DIS:180] Simic Growth Chamber
+3 [NPH:168] Island
+1 [C16:11] Cruel Entertainment
+1 [M15:100] In Garruk's Wake
+1 [DIS:178] Rakdos Carnarium
+1 [TSP:187] Wheel of Fate
+1 [C16:19] Goblin Spymaster
+1 [V13:6] Wall of Blossoms
+1 [GPT:115] Glint-Eye Nephilim
+1 [CON:144] Rupture Spire
+1 [C16:20] Runehorn Hellkite
+1 [DST:160] Whispersilk Cloak
+1 [ODY:326] Shadowblood Ridge
+1 [CMD:269] Command Tower
+1 [C16:27] Ancient Excavation
+1 [EMN:119] Blood Mist
+1 [CNS:165] Gamekeeper
+1 [RTR:184] Rakdos Charm
+1 [MPS:24] Sol Ring
+1 [ISD:155] Past in Flames
+1 [MPS:28] Sword of Feast and Famine
+1 [USG:111] Windfall
+1 [BNG:115] Whims of the Fates
+1 [DIS:165] Rakdos Signet
+1 [DIS:166] Simic Signet
+1 [THS:194] Horizon Chimera
+1 [AVR:48] Devastation Tide
+1 [GTC:152] Consuming Aberration
+1 [LRW:250] Nath of the Gilt-Leaf
+1 [C16:31] Grave Upheaval
+1 [EMA:239] Jungle Hollow
+1 [M13:227] Reliquary Tower
+1 [10E:83] Evacuation
+1 [TOR:125] Far Wanderings
+1 [ONS:73] Chain of Vapor
+1 [C16:35] Kydele, Chosen of Kruphix
+1 [EMA:197] Bloodbraid Elf
+1 [M15:122] Waste Not
+1 [KTK:243] Swiftwater Cliffs
+1 [CNS:20] Academy Elite
+1 [FRF:70] Ghastly Conscription
+1 [CON:99] Blood Tyrant
+1 [CN2:147] Sangromancer
+1 [ONS:185] Aggravated Assault
+1 [DTK:167] Volcanic Vision
+1 [CNS:185] Decimate
+1 [EMA:243] Rugged Highlands
+1 [EMA:246] Thornwood Falls
+1 [GTC:207] Whispering Madness
+1 [CN2:219] Exotic Orchard
+3 [NPH:172] Mountain
+1 [M13:68] Spelltwine
+2 [NPH:173] Mountain
+3 [NPH:170] Swamp
+2 [NPH:171] Swamp
+1 [ARB:34] Bituminous Blast
+4 [NPH:174] Forest
+1 [C16:49] Vial Smasher the Fierce
+1 [KTK:238] Opulent Palace
+1 [NPH:175] Forest
+1 [C16:47] Treacherous Terrain
+1 [CMD:248] Fellwar Stone
+1 [C16:46] Thrasios, Triton Hero
+1 [KTK:59] Treasure Cruise
+1 [KTK:234] Frontier Bivouac
+1 [C15:217] Etherium-Horn Sorcerer
+1 [KTK:232] Dismal Backwater
+1 [ISD:87] Army of the Damned
+1 [DDO:51] Coiling Oracle
+1 [AVR:151] Reforge the Soul
+1 [CN2:178] Burgeoning
+1 [FNMP:139] Savage Lands
+SB: 1 [C16:50] Yidris, Maelstrom Wielder
+LAYOUT MAIN:(1,10)(CMC,false,50)|([TSP:187],[CMD:269],[ALA:222],[KTK:232],[CMD:272],[CN2:219],[KTK:234],[EMA:239],[KTK:238],[DIS:178],[M13:227],[EMA:243],[CON:144],[FNMP:139],[ODY:326],[DIS:180],[KTK:243],[10E:360],[EMA:246],[NPH:174],[NPH:175],[NPH:174],[NPH:174],[NPH:174],[NPH:168],[NPH:168],[NPH:169],[NPH:169],[NPH:168],[NPH:172],[NPH:173],[NPH:172],[NPH:172],[NPH:173],[NPH:171],[NPH:171],[NPH:170],[NPH:170],[NPH:170],[C16:56])([ONS:73],[MPS:24],[CN2:178])([M15:198],[V13:6],[DDO:51],[RTR:184],[CMD:248],[DIS:165],[DIS:166],[M15:122],[C16:46])([THS:204],[USG:111],[TOR:125],[CMD:114],[MPS:8],[C14:54],[DST:160],[C16:19],[C16:49],[C16:15],[ONS:185],[MPS:28])([CNS:20],[CNS:165],[CN2:147],[EMA:197],[THS:194],[GPT:115],[ISD:155],[GTC:207],[CNS:185],[C16:35],[C16:52],[C16:18],[C16:27],[EMN:119])([GTC:152],[LRW:250],[AVR:48],[AVR:151],[10E:83],[ARB:34])([C15:217],[M13:68],[BNG:115],[C16:20],[C16:13],[C16:31])([SCG:87],[CON:99],[FRF:70],[DTK:167],[C16:11])([KTK:59],[ISD:87],[C16:47])([M15:100])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([C16:50])

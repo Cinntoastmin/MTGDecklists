@@ -1,0 +1,86 @@
+NAME:Gitrog
+1 [MOR:136] Scapeshift
+1 [MMQ:316] Dust Bowl
+1 [KLD:163] Nissa, Vital Force
+1 [CHK:201] Azusa, Lost but Seeking
+1 [RAV:279] Overgrown Tomb
+1 [RAV:278] Golgari Rot Farm
+1 [CMD:152] Eternal Witness
+1 [C14:50] Titania, Protector of Argoth
+1 [CNS:191] Pernicious Deed
+1 [C13:72] Decree of Pain
+1 [CMD:277] Homeward Path
+1 [OGW:126] World Breaker
+1 [V10:15] Zuran Orb
+1 [MMA:195] Worm Harvest
+1 [MMA:152] Krosan Grip
+1 [PLC:85] Damnation
+1 [C15:35] Centaur Vinecrasher
+1 [C13:137] Bane of Progress
+1 [ZEN:229] Verdant Catacombs
+1 [KTK:142] Naturalize
+1 [TOR:139] Cabal Coffers
+1 [SOI:233] Tireless Tracker
+1 [SOI:235] Ulvenwald Hydra
+1 [CON:143] Reliquary Tower
+1 [BFZ:233] Blighted Woodland
+1 [CNS:164] Exploration
+1 [SOM:175] Mimic Vat
+1 [RAV:221] Putrefy
+1 [MRD:130] Sylvan Scrying
+1 [CMD:267] Bojuka Bog
+1 [CMD:266] Barren Moor
+1 [CMD:269] Command Tower
+1 [10E:319] Crucible of Worlds
+1 [RTR:213] Deathrite Shaman
+1 [RAV:107] Stinkweed Imp
+1 [VIS:137] Squandered Resources
+1 [VMA:293] Bayou
+1 [GTC:61] Crypt Ghast
+1 [KLD:216] Ghirapur Orrery
+1 [CMD:292] Tranquil Thicket
+1 [DD3GVL:59] Polluted Mire
+1 [ORI:209] Zendikar's Roil
+1 [WWK:145] Tectonic Edge
+11 [UNH:140] Forest
+1 [MM2:5] Kozilek, Butcher of Truth
+1 [ZEN:165] Harrow
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [RAV:172] Life from the Loam
+1 [M15:244] Llanowar Wastes
+1 [RTR:165] Grisly Salvage
+1 [ZEN:168] Lotus Cobra
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [ISD:240] Ghost Quarter
+1 [DTK:248] Evolving Wilds
+1 [SOM:61] Exsanguinate
+1 [ISD:249] Woodland Cemetery
+1 [STH:54] Constant Mists
+8 [UNH:138] Swamp
+1 [VMA:140] Skirge Familiar
+1 [DD3GVL:26] Slippery Karst
+1 [SOI:271] Drownyard Temple
+1 [RAV:167] Golgari Grave-Troll
+1 [EMA:248] Wasteland
+1 [KTK:239] Polluted Delta
+1 [ZEN:178] Rampaging Baloths
+1 [ZEN:172] Oracle of Mul Daya
+1 [C14:217] Sylvan Safekeeper
+1 [M12:120] Zombie Infestation
+1 [CN2:174] Beast Within
+1 [VMA:116] Demonic Tutor
+1 [MMA:222] Dakmor Salvage
+1 [C14:136] Black Sun's Zenith
+1 [VMA:316] Strip Mine
+1 [KTK:230] Bloodstained Mire
+1 [VMA:235] Sylvan Library
+1 [ROE:206] Realms Uncharted
+1 [EMN:171] Splendid Reclamation
+1 [CN2:178] Burgeoning
+1 [CN2:211] Horn of Greed
+1 [ULG:98] Crop Rotation
+1 [DDP:1] Avenger of Zendikar
+SB: 1 [SOI:245] The Gitrog Monster
+LAYOUT MAIN:(1,10)(CMC,false,50)|([EMA:248],[VMA:316],[M15:248],[TOR:139],[V10:15],[CMD:266],[BFZ:233],[ISD:249],[RAV:279],[KTK:239],[DD3GVL:59],[ISD:240],[MMA:222],[KTK:230],[CMD:267],[CMD:269],[SOI:271],[DTK:248],[RAV:278],[M15:244],[CON:143],[DD3GVL:26],[ZEN:229],[VMA:293],[KTK:248],[KTK:249],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[CMD:292],[CMD:277],[MMQ:316],[WWK:145])([CN2:178],[CNS:164],[ULG:98],[C14:217],[RTR:213])([VIS:137],[VMA:235],[M12:120],[STH:54],[RAV:172],[RTR:165],[MRD:130],[SOM:61],[VMA:116],[C14:136],[ZEN:168],[KTK:142])([10E:319],[CNS:191],[ROE:206],[MMA:152],[ZEN:165],[RAV:107],[CMD:152],[CN2:174],[SOM:175],[CN2:211],[CHK:201],[SOI:233],[RAV:221])([ZEN:172],[EMN:171],[GTC:61],[PLC:85],[MOR:136],[C15:35],[KLD:216])([KLD:163],[C14:50],[MMA:195],[RAV:167],[ORI:209],[VMA:140])([C13:137],[SOI:235],[ZEN:178])([DDP:1],[OGW:126])([C13:72])([MM2:5])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([SOI:245])

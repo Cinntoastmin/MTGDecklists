@@ -1,0 +1,95 @@
+1 [C14:54] Commander's Sphere
+1 [C16:171] Thelonite Hermit
+1 [RAV:158] Doubling Season
+1 [C16:172] Thunderfoot Baloth
+1 [CMD:153] Explosive Vegetation
+1 [RAV:236] Tolsimir Wolfblood
+1 [ONS:319] Grand Coliseum
+1 [THS:209] Xenagos, the Reveler
+2 [NPH:166] Plains
+1 [C16:179] Artifact Mutation
+1 [MPS:8] Chromatic Lantern
+1 [MM2:191] Creakwood Liege
+1 [C16:56] Ash Barrens
+2 [NPH:167] Plains
+1 [ALA:140] Mycoloth
+1 [RTR:150] Collective Blessing
+1 [CNS:84] Swords to Plowshares
+1 [AVR:209] Gisela, Blade of Goldnight
+1 [GPT:110] Dune-Brood Nephilim
+1 [M13:170] Farseek
+1 [USG:321] Gaea's Cradle
+1 [GTC:247] Stomping Ground
+1 [GTC:245] Sacred Foundry
+1 [CN2:201] Dragonlair Spider
+1 [JOU:150] Iroas, God of Victory
+1 [VMA:281] Skullclamp
+1 [BFZ:235] Cinder Glade
+1 [GTC:242] Godless Shrine
+1 [CMD:182] Aura Shards
+1 [C14:67] Cathars' Crusade
+1 [FNMP:94] Eternal Witness
+1 [UDS:1] Academy Rector
+1 [C16:200] Ghave, Guru of Spores
+1 [C16:167] Shamanic Revelation
+1 [10E:350] Caves of Koilos
+1 [CMD:269] Command Tower
+1 [C16:25] Stonehoof Chieftain
+1 [10E:354] Karplusan Forest
+1 [MPS:24] Sol Ring
+1 [ISD:23] Mikaeus, the Lunarch
+1 [MPS:25] Solemn Simulacrum
+1 [KTK:210] Utter End
+1 [KLD:4] Angel of Invention
+1 [KTK:174] Duneblast
+1 [ISD:199] Parallel Lives
+1 [ZEN:159] Beastmaster Ascension
+1 [SOI:200] Cryptolith Rite
+1 [WWK:96] Avenger of Zendikar
+1 [FNMP:115] Sakura-Tribe Elder
+1 [MBP:134] Sandsteppe Citadel
+1 [SOI:242] Anguished Unmaking
+1 [ISD:238] Clifftop Retreat
+1 [CHK:225] Kodama's Reach
+1 [MMA:26] Reveillark
+1 [M13:229] Sunpetal Grove
+1 [M13:228] Rootbound Crag
+1 [KTK:249] Wooded Foothills
+1 [VMA:308] Plateau
+1 [C14:79] Mentor of the Meek
+1 [MPS:14] Lightning Greaves
+1 [C13:310] Opal Palace
+1 [CN2:144] Phyrexian Arena
+1 [DKA:142] Sorin, Lord of Innistrad
+1 [GTC:142] Assemble the Legion
+1 [THS:135] Purphoros, God of the Forge
+1 [C16:180] Aura Mutation
+1 [C16:41] Saskia the Unyielding
+1 [CN2:218] Evolving Wilds
+2 [NPH:173] Mountain
+2 [NPH:171] Swamp
+1 [C16:144] Champion of Lambholt
+1 [C15:253] Eldrazi Monument
+1 [M10:223] Dragonskull Summit
+1 [KTK:237] Nomad Outpost
+3 [NPH:174] Forest
+1 [TOR:136] Parallel Evolution
+2 [NPH:175] Forest
+1 [CNS:189] Mirari's Wake
+1 [DRB:12] Rith, the Awakener
+1 [C16:108] Brutal Hordechief
+1 [KTK:230] Bloodstained Mire
+1 [VMA:311] Savannah
+1 [C15:1] Bastion Protector
+1 [MPRP:14] Putrefy
+1 [VMA:313] Scrubland
+1 [CNS:72] Intangible Virtue
+1 [ALA:226] Jungle Shrine
+1 [LRW:31] Mirror Entity
+1 [ALA:228] Savage Lands
+1 [RAV:207] Glare of Subdual
+1 [GTC:177] Merciless Eviction
+SB: 1 [C16:39] Ravos, Soultender
+SB: 1 [C16:45] Tana, the Bloodsower
+LAYOUT MAIN:(1,9)(CMC,false,50)|([VMA:308],[VMA:311],[VMA:313],[USG:321],[C16:56],[KTK:230],[10E:350],[BFZ:235],[ISD:238],[CMD:269],[M10:223],[CN2:218],[GTC:242],[ONS:319],[ALA:226],[10E:354],[KTK:237],[C13:310],[M13:228],[GTC:245],[MBP:134],[ALA:228],[GTC:247],[M13:229],[KTK:249],[NPH:174],[NPH:174],[NPH:174],[NPH:175],[NPH:175],[NPH:173],[NPH:173],[NPH:166],[NPH:166],[NPH:167],[NPH:167],[NPH:171],[NPH:171])([VMA:281],[MPS:24],[ISD:23],[CNS:84])([FNMP:115],[C16:179],[C16:180],[M13:170],[MPS:14],[SOI:200],[CNS:72])([C15:1],[C16:144],[FNMP:94],[C14:79],[LRW:31],[SOI:242],[MPRP:14],[CHK:225],[MPS:8],[C14:54],[CMD:182],[ZEN:159],[CN2:144])([GPT:110],[ISD:199],[UDS:1],[THS:209],[C16:108],[MM2:191],[JOU:150],[THS:135],[C16:41],[MPS:25],[C16:171],[KTK:210],[CMD:153],[RAV:207],[DKA:142])([RAV:158],[TOR:136],[KLD:4],[C16:200],[ALA:140],[MMA:26],[C16:167],[C15:253],[GTC:142],[C14:67],[CNS:189])([DRB:12],[CN2:201],[C16:172],[RAV:236],[GTC:177],[RTR:150])([WWK:96],[AVR:209],[KTK:174])([C16:25])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([C16:45],[C16:39])
