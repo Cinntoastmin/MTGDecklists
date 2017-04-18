@@ -1,0 +1,95 @@
+1 [ALA:63] Ad Nauseam
+1 [C16:131] Past in Flames
+1 [EXP:22] Scalding Tarn
+1 [MBP:60] Turnabout
+1 [EXP:21] Marsh Flats
+1 [STH:132] Mox Diamond
+1 [EXP:24] Arid Mesa
+1 [EXP:23] Verdant Catacombs
+1 [EXO:40] Mind Over Matter
+1 [MPS:9] Chrome Mox
+1 [EMA:132] Gamble
+1 [EXP:20] Windswept Heath
+1 [EXP:19] Wooded Foothills
+1 [CN2:162] Guttersnipe
+1 [DD3JVC:26] Fact or Fiction
+1 [ME3:135] Three Visits
+1 [EXP:18] Bloodstained Mire
+1 [TSP:187] Wheel of Fate
+1 [M13:170] Farseek
+1 [VMA:321] Tropical Island
+1 [EXP:15] Breeding Pool
+1 [DDI:24] Preordain
+1 [GPT:152] Izzet Signet
+1 [EXP:17] Polluted Delta
+1 [VMA:323] Underground Sea
+1 [EXP:16] Flooded Strand
+1 [VMA:324] Volcanic Island
+1 [RTR:35] Cyclonic Rift
+1 [MM2:223] Mox Opal
+1 [VIS:145] Helm of Awakening
+1 [V13:5] Impulse
+1 [8ED:91] Merchant Scroll
+1 [VMA:71] Future Sight
+1 [VMA:70] Frantic Search
+1 [M10:52] Fabricate
+1 [ME4:187] Candelabra of Tawnos
+1 [VMA:3] Timetwister
+1 [EMA:100] Night's Whisper
+1 [ORI:90] Dark Petition
+1 [FNMP:95] Tendrils of Agony
+8 [CSP:152] Snow-Covered Island
+1 [CMD:269] Command Tower
+1 [EXP:13] Overgrown Tomb
+1 [EXP:12] Steam Vents
+1 [RAV:260] Dimir Signet
+1 [NPH:118] Noxious Revival
+1 [TPR:54] Intuition
+1 [MPS:24] Sol Ring
+1 [MPS:22] Scroll Rack
+1 [CNS:91] Brainstorm
+1 [DIS:166] Simic Signet
+1 [VMA:130] Necropotence
+1 [MRD:175] Gilded Lotus
+1 [FNMP:115] Sakura-Tribe Elder
+1 [VMA:291] Badlands
+1 [VMA:80] Mind's Desire
+1 [VMA:293] Bayou
+1 [EMA:112] Vampiric Tutor
+1 [C15:55] Thought Vessel
+1 [EMA:232] Sensei's Divining Top
+1 [M13:227] Reliquary Tower
+1 [MBP:80] High Tide
+1 [VMA:227] Regrowth
+1 [5DN:92] Rude Awakening
+1 [HOP:76] Rampant Growth
+1 [ALL:192] Lim-Dul's Vault
+1 [MPS:17] Mana Vault
+1 [USG:103] Time Spiral
+1 [FNMP:187] Anticipate
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [MPS:15] Lotus Petal
+1 [VMA:148] Yawgmoth's Will
+1 [MPS:16] Mana Crypt
+1 [MPRP:29] Ponder
+1 [KLD:109] Cathartic Reunion
+1 [MBP:39] Faithless Looting
+1 [ULG:43] Snap
+1 [DTK:163] Tormenting Voice
+1 [DD3GVL:17] Nature's Lore
+1 [ME2:58] Personal Tutor
+1 [EMA:62] Mystical Tutor
+1 [C15:29] Mizzix's Mastery
+1 [KLD:192] Aetherflux Reservoir
+1 [C16:104] Windfall
+1 [VMA:116] Demonic Tutor
+1 [VMA:317] Taiga
+1 [EXP:25] Misty Rainforest
+1 [EMN:79] Unsubstantiate
+1 [EXP:7] Watery Grave
+1 [EXP:8] Blood Crypt
+1 [VMA:192] Wheel of Fortune
+1 [EXP:9] Stomping Ground
+SB: 1 [C16:50] Yidris, Maelstrom Wielder
+LAYOUT MAIN:(1,7)(CMC,false,50)|([TSP:187],[MPS:9],[MPS:15],[MPS:16],[STH:132],[MM2:223],[M15:248],[M13:227],[CMD:269],[EXP:24],[EXP:18],[EXP:16],[EXP:21],[EXP:25],[EXP:17],[EXP:22],[EXP:23],[EXP:20],[EXP:19],[VMA:291],[VMA:293],[VMA:317],[VMA:321],[VMA:323],[VMA:324],[EXP:8],[EXP:15],[EXP:13],[EXP:12],[EXP:9],[EXP:7],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152])([NPH:118],[MBP:80],[EMA:232],[CNS:91],[MBP:39],[MPRP:29],[DDI:24],[EMA:62],[EMA:112],[EMA:132],[ME2:58],[ME4:187],[MPS:17],[MPS:24])([VMA:227],[RTR:35],[EMN:79],[MPS:22],[FNMP:187],[V13:5],[ALL:192],[KLD:109],[EMA:100],[DTK:163],[VMA:116],[8ED:91],[ULG:43],[VIS:145],[FNMP:115],[M13:170],[DD3GVL:17],[HOP:76],[ME3:135],[RAV:260],[GPT:152],[DIS:166],[C15:55])([CN2:162],[VMA:148],[VMA:3],[VMA:192],[C16:104],[VMA:130],[VMA:70],[TPR:54],[M10:52])([FNMP:95],[KLD:192],[C15:29],[C16:131],[DD3JVC:26],[MBP:60])([VMA:71],[ALA:63],[ORI:90],[5DN:92],[MRD:175])([VMA:80],[EXO:40],[USG:103])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([C16:50])

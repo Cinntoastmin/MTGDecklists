@@ -1,0 +1,90 @@
+1 [ONS:312] Barren Moor
+1 [MBS:88] Praetor's Counsel
+1 [C16:170] Tempt with Discovery
+1 [RAV:276] Dimir Aqueduct
+1 [WWK:123] Everflowing Chalice
+1 [RAV:278] Golgari Rot Farm
+1 [FUT:136] Riftsweeper
+1 [C14:13] Domineering Will
+1 [DIS:180] Simic Growth Chamber
+1 [M15:100] In Garruk's Wake
+1 [CN2:77] Leovold, Emissary of Trest
+1 [TOR:139] Cabal Coffers
+1 [BNG:149] Kiora, the Crashing Wave
+1 [RTR:35] Cyclonic Rift
+1 [FRF:56] Torrent Elemental
+1 [BFZ:236] Evolving Wilds
+1 [DGM:92] Progenitor Mimic
+1 [GTC:240] Breeding Pool
+1 [C15:40] Verdant Confluence
+1 [SHM:122] Mana Reflection
+1 [C16:286] Command Tower
+1 [AVR:92] Dark Impostor
+1 [KTK:34] Clever Impersonator
+1 [KTK:36] Dig Through Time
+1 [3ED:121] Regrowth
+1 [KTK:211] Villainous Wealth
+1 [NPH:118] Noxious Revival
+1 [BNG:157] Astral Cornucopia
+1 [FNMP:153] Reliquary Tower
+1 [TSP:271] Dreadship Reef
+1 [5DN:86] Eternal Witness
+1 [M13:87] Diabolic Revelation
+1 [CM1:12] The Mimeoplasm
+1 [DKA:69] Increasing Ambition
+1 [LRW:276] Vivid Creek
+1 [GTC:231] Illusionist's Bracers
+1 [LRW:277] Vivid Grove
+1 [BNG:152] Phenax, God of Deception
+1 [CHK:225] Kodama's Reach
+1 [BFZ:206] Sire of Stagnation
+1 [THS:225] Temple of Deceit
+1 [CHK:267] Reito Lantern
+1 [SCG:64] Decree of Pain
+1 [C16:195] Edric, Spymaster of Trest
+1 [9ED:152] Phyrexian Arena
+7 [UNH:140] Forest
+1 [M11:168] Cultivate
+1 [10E:82] Dreamborn Muse
+1 [M13:223] Drowned Catacomb
+1 [NPH:103] Beast Within
+1 [RAV:172] Life from the Loam
+1 [3ED:274] Sol Ring
+1 [RTR:243] Overgrown Tomb
+1 [NPH:73] Sheoldred, Whispering One
+1 [AVR:225] Alchemist's Refuge
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [M15:51] Dissipate
+1 [RTR:208] Vraska the Unseen
+1 [GTC:33] Diluvian Primordial
+1 [3ED:13] Demonic Tutor
+1 [GTC:75] Sepulchral Primordial
+5 [UNH:137] Island
+1 [GTC:71] Lord of the Void
+3 [UNH:138] Swamp
+1 [AVR:79] Tamiyo, the Moon Sage
+1 [KLD:75] Diabolic Tutor
+1 [LRW:76] Mulldrifter
+1 [CHK:251] General's Kabuto
+1 [GTC:249] Watery Grave
+1 [WWK:132] Bojuka Bog
+1 [ROE:91] Training Grounds
+1 [WWK:137] Halimar Depths
+1 [KTK:239] Polluted Delta
+1 [10E:296] Seedborn Muse
+1 [10E:252] Birds of Paradise
+1 [SCG:143] Temple of the False God
+1 [KTK:238] Opulent Palace
+1 [ZEN:172] Oracle of Mul Daya
+1 [M14:195] Scavenging Ooze
+1 [TSP:202] Krosan Grip
+1 [ISD:89] Bloodgift Demon
+1 [NPH:65] Life's Finale
+1 [THS:91] Hythonia the Cruel
+1 [THS:90] Hero's Downfall
+1 [MRD:199] Lightning Greaves
+1 [EMN:171] Splendid Reclamation
+1 [ULG:98] Crop Rotation
+SB: 1 [FRF:87] Tasigur, the Golden Fang
+LAYOUT MAIN:(1,10)(CMC,false,50)|([BNG:157],[WWK:123],[AVR:225],[ONS:312],[WWK:132],[GTC:240],[TOR:139],[C16:286],[RAV:276],[TSP:271],[M13:223],[BFZ:236],[RAV:278],[WWK:137],[KTK:238],[RTR:243],[KTK:239],[DIS:180],[THS:225],[SCG:143],[LRW:276],[LRW:277],[GTC:249],[M15:248],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:138],[UNH:138],[UNH:138],[FNMP:153])([3ED:274],[ROE:91],[ULG:98],[NPH:118],[10E:252])([GTC:231],[MRD:199],[CHK:267],[RTR:35],[3ED:13],[RAV:172],[3ED:121],[FUT:136],[M14:195])([9ED:152],[NPH:103],[M15:51],[THS:90],[TSP:202],[M11:168],[CHK:225],[KTK:211],[AVR:92],[5DN:86],[C16:195],[CN2:77])([CHK:251],[C14:13],[KLD:75],[EMN:171],[C16:170],[BNG:149],[KTK:34],[10E:82],[ZEN:172])([M13:87],[DKA:69],[AVR:79],[RTR:208],[ISD:89],[LRW:76],[10E:296],[FRF:56],[CM1:12],[BNG:152])([SHM:122],[NPH:65],[C15:40],[DGM:92],[BFZ:206],[THS:91])([GTC:33],[GTC:71],[GTC:75],[NPH:73])([KTK:36],[SCG:64],[MBS:88])([M15:100])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([FRF:87])

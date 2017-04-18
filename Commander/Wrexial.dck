@@ -1,0 +1,78 @@
+1 [ONS:312] Barren Moor
+1 [5ED:3] Ashes to Ashes
+1 [SHM:172] Oona, Queen of the Fae
+1 [ROE:82] Recurring Insight
+1 [C14:17] Stitcher Geralf
+1 [PLC:85] Damnation
+1 [BFZ:63] Oracle of Dust
+1 [BFZ:62] Murk Strider
+1 [BFZ:64] Ruination Guide
+1 [RTR:35] Cyclonic Rift
+1 [4ED:189] Strip Mine
+1 [MRD:165] Duplicant
+1 [INV:57] Fact or Fiction
+1 [BFZ:68] Ulamog's Reclaimer
+1 [ULG:63] Phyrexian Reclamation
+1 [ONS:320] Lonely Sandbar
+1 [TSB:43] Faceless Butcher
+1 [M15:44] Aetherspouts
+1 [SHM:42] Knacksaw Clique
+1 [6ED:161] Vampiric Tutor
+12 [KLD:253] Island
+1 [C16:286] Command Tower
+1 [SHM:162] Ghastlord of Fugue
+1 [KTK:36] Dig Through Time
+1 [ORI:250] Rogue's Passage
+1 [DKA:139] Havengul Lich
+1 [ISD:115] Sever the Bloodline
+14 [KLD:256] Swamp
+1 [OGW:49] Void Shatter
+1 [BFZ:102] Wasteland Strangler
+1 [SOM:187] Nihil Spellbomb
+1 [BFZ:207] Ulamog's Nullifier
+1 [BFZ:206] Sire of Stagnation
+1 [M12:219] Swiftfoot Boots
+1 [SCG:64] Decree of Pain
+1 [TSB:54] Withered Wretch
+1 [THS:220] Pyxis of Pandemonium
+1 [M12:217] Solemn Simulacrum
+1 [M13:227] Reliquary Tower
+1 [M13:223] Drowned Catacomb
+1 [3ED:274] Sol Ring
+1 [MPS:17] Mana Vault
+1 [WWK:40] Thada Adel, Acquisitor
+1 [7ED:71] Equilibrium
+1 [ISD:240] Ghost Quarter
+1 [MPS:16] Mana Crypt
+1 [DRK:114] Maze of Ith
+1 [GTC:33] Diluvian Primordial
+1 [M15:51] Dissipate
+1 [JOU:62] Brain Maggot
+1 [FRF:79] Palace Siege
+1 [M14:48] Colossal Whale
+1 [THS:46] Curse of the Swine
+1 [THS:213] Burnished Hart
+1 [RAV:202] Dimir Doppelganger
+1 [LRW:76] Mulldrifter
+1 [M13:68] Spelltwine
+1 [WWK:132] Bojuka Bog
+1 [GTC:248] Thespian's Stage
+1 [SCG:143] Temple of the False God
+1 [TMP:80] Propaganda
+1 [C15:23] Wretched Confluence
+1 [BFZ:95] Mind Raker
+1 [BFZ:56] Cryptic Cruiser
+1 [BFZ:12] Ruin Processor
+1 [M14:224] Strionic Resonator
+1 [BFZ:11] Oblivion Sower
+1 [BFZ:16] Ulamog's Despoiler
+1 [GTC:44] Rapid Hybridization
+1 [MBS:104] Darksteel Plate
+1 [MRD:199] Lightning Greaves
+1 [KLD:84] Gonti, Lord of Luxury
+1 [BFZ:203] Fathom Feeder
+1 [MRD:159] Crystal Shard
+1 [TOR:69] Mesmeric Fiend
+SB: 1 [WWK:120] Wrexial, the Risen Deep
+LAYOUT MAIN:(1,9)(CMC,false,50)|([ONS:312],[WWK:132],[C16:286],[M13:223],[ISD:240],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[ONS:320],[DRK:114],[M13:227],[ORI:250],[4ED:189],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[SCG:143],[GTC:248],[MPS:16])([SOM:187],[ULG:63],[THS:220],[GTC:44],[3ED:274],[6ED:161],[MPS:17])([JOU:62],[THS:46],[RTR:35],[BFZ:203],[MRD:199],[TOR:69],[M14:224],[M12:219],[TSB:54])([5ED:3],[THS:213],[MRD:159],[MBS:104],[RAV:202],[M15:51],[7ED:71],[TMP:80],[BFZ:64],[WWK:40],[OGW:49],[BFZ:102])([BFZ:56],[PLC:85],[TSB:43],[INV:57],[KLD:84],[SHM:42],[BFZ:95],[BFZ:62],[ISD:115],[M12:217],[BFZ:207])([M15:44],[SHM:162],[DKA:139],[LRW:76],[BFZ:63],[FRF:79],[C14:17],[BFZ:68],[C15:23])([MRD:165],[BFZ:11],[SHM:172],[ROE:82],[BFZ:206],[M13:68],[BFZ:16])([M14:48],[GTC:33],[BFZ:12])([SCG:64],[KTK:36])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([WWK:120])

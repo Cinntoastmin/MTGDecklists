@@ -48,12 +48,14 @@
 1 [C16:72] Open the Vaults
 1 [C16:273] Solemn Simulacrum
 1 [EMA:32] Swords to Plowshares
-1 [C16:199] Filigree Angel
 1 [C16:276] Swiftfoot Boots
 1 [C14:38] Scrap Mastery
 1 [C16:237] Thopter Foundry
+1 [FNMP:89] Cabal Coffers
 1 [MMA:210] Myr Retriever
+1 [4ED:284] Land Tax
 1 [HOP:139] Terramorphic Expanse
+1 [M15:248] Urborg, Tomb of Yawgmoth
 1 [C13:273] Arcane Sanctum
 1 [ORI:79] Thopter Spy Network
 1 [DTK:248] Evolving Wilds
@@ -74,13 +76,11 @@
 1 [KTK:237] Nomad Outpost
 1 [C16:223] Sphinx Summoner
 1 [C16:102] Trinket Mage
-1 [C16:224] Sydri, Galvanic Genius
 1 [FUT:165] Sword of the Meek
 1 [RTR:241] Hallowed Fountain
 1 [C16:269] Shimmer Myr
 1 [C16:89] Etherium Sculptor
 1 [M15:242] Darksteel Citadel
-1 [C16:107] Beacon of Unrest
 1 [VMA:116] Demonic Tutor
 1 [C14:299] Great Furnace
 1 [C14:254] Myr Battlesphere
@@ -93,5 +93,5 @@
 1 [HOP:141] Vault of Whispers
 1 [SOM:188] Nim Deathmantle
 SB: 1 [C16:29] Breya, Etherium Shaper
-LAYOUT MAIN:(1,10)(CMC,false,50)|([HOP:130],[C13:273],[EXP:18],[C16:284],[CMD:269],[C13:283],[M15:242],[DTK:248],[CON:142],[EXP:11],[C14:299],[RTR:241],[KLD:247],[KTK:237],[KTK:239],[C16:323],[EXP:12],[C16:331],[HOP:139],[HOP:141],[GTC:249],[NPH:169],[NPH:169],[NPH:169],[NPH:169],[NPH:168],[NPH:173],[NPH:172],[NPH:166],[NPH:166],[NPH:167],[NPH:171],[NPH:171])([EMA:9],[EMA:32],[VMA:281],[MPS:24],[MPRP:29])([VMA:243],[C16:89],[MMA:210],[C16:133],[VMA:64],[RTR:35],[VMA:116],[DST:31],[C16:249],[C16:254],[C16:258],[C16:262],[SOM:188],[C16:276],[FUT:165],[C16:237],[ARB:31])([C16:203],[C16:269],[C16:43],[C16:224],[C16:102],[SOI:242],[MRD:53],[M10:52],[C16:136],[EMA:218],[MPS:8],[C16:248],[ARENA:58],[MPS:23],[CN2:144],[CN2:74])([KLD:226],[CON:31],[KLD:59],[C16:273],[EMA:48],[5DN:134],[C16:265],[M14:225],[ORI:79],[C16:123],[VMA:246])([C16:90],[SOM:169],[C16:223],[C16:107],[C14:38],[C16:244],[MM2:62],[AVR:214])([C16:128],[C16:221],[MLP:13],[PTC:46],[C16:72],[C16:73])([C14:254])([C16:199])([M14:206])
+LAYOUT MAIN:(1,9)(CMC,false,50)|([HOP:130],[C13:273],[EXP:18],[C16:284],[CMD:269],[C13:283],[M15:242],[DTK:248],[CON:142],[EXP:11],[C14:299],[RTR:241],[KLD:247],[KTK:237],[KTK:239],[C16:323],[EXP:12],[C16:331],[HOP:139],[HOP:141],[GTC:249],[NPH:169],[NPH:169],[NPH:169],[NPH:169],[NPH:168],[NPH:173],[NPH:172],[NPH:166],[NPH:166],[NPH:167],[NPH:171],[NPH:171],[M15:248],[FNMP:89])([EMA:9],[EMA:32],[VMA:281],[MPS:24],[MPRP:29],[4ED:284])([VMA:243],[C16:89],[MMA:210],[C16:133],[VMA:64],[RTR:35],[VMA:116],[DST:31],[C16:249],[C16:254],[C16:258],[C16:262],[SOM:188],[C16:276],[FUT:165],[C16:237],[ARB:31])([C16:203],[C16:269],[C16:43],[C16:102],[SOI:242],[MRD:53],[M10:52],[C16:136],[EMA:218],[MPS:8],[C16:248],[ARENA:58],[MPS:23],[CN2:144],[CN2:74])([KLD:226],[CON:31],[KLD:59],[C16:273],[EMA:48],[5DN:134],[C16:265],[M14:225],[ORI:79],[C16:123],[VMA:246])([C16:90],[SOM:169],[C16:223],[C14:38],[C16:244],[MM2:62],[AVR:214])([C16:128],[C16:221],[MLP:13],[PTC:46],[C16:72],[C16:73])([C14:254])([M14:206])
 LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([C16:29])

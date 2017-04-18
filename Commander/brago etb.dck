@@ -1,0 +1,84 @@
+1 [PLC:45] Reality Acid
+1 [MRD:35] Fabricate
+1 [10E:61] Wrath of God
+1 [C16:331] Temple of the False God
+1 [NPH:166] Plains
+1 [NPH:4] Blade Splicer
+1 [C15:244] Basalt Monolith
+5 [NPH:169] Island
+11 [NPH:167] Plains
+5 [NPH:168] Island
+1 [CNS:84] Swords to Plowshares
+1 [VMA:37] Parallax Wave
+1 [TSP:39] Return to Dust
+1 [MOR:44] Nevermaker
+1 [DDI:6] Mistmeadow Witch
+1 [DIS:174] Hallowed Fountain
+1 [VMA:322] Tundra
+1 [VMA:32] Karmic Guide
+1 [DDI:1] Venser, the Sojourner
+1 [V13:7] Thran Dynamo
+1 [VMA:74] Jace, the Mind Sculptor
+1 [RTR:35] Cyclonic Rift
+1 [SOI:44] Thraben Inspector
+1 [SOI:278] Port Town
+1 [FRF:16] Lightform
+1 [DDQ:1] Geist of Saint Traft
+1 [SHM:248] Cauldron of Souls
+1 [C16:280] Whispersilk Cloak
+1 [AVR:57] Ghostly Flicker
+1 [FUT:46] Venser, Shaper Savant
+1 [KLD:176] Cloudblazer
+1 [CMD:269] Command Tower
+1 [ISD:17] Geist-Honored Monk
+1 [EMA:220] Duplicant
+1 [MPS:24] Sol Ring
+1 [MPS:25] Solemn Simulacrum
+1 [KLD:4] Angel of Invention
+1 [MPS:22] Scroll Rack
+1 [C13:1] Act of Authority
+1 [FNMP:153] Reliquary Tower
+1 [CNS:91] Brainstorm
+1 [TPR:222] Erratic Portal
+1 [M11:45] Augury Owl
+1 [GTC:20] Luminate Primordial
+1 [MRD:256] Talisman of Progress
+1 [AVR:47] Deadeye Navigator
+1 [ORI:83] Whirler Rogue
+1 [LEG:195] Land Tax
+1 [M12:37] Stonehorn Dignitary
+1 [M13:225] Glacial Fortress
+1 [EMA:35] War Priest of Thune
+1 [FNMP:182] Path to Exile
+1 [RTR:245] Rogue's Passage
+1 [MPS:14] Lightning Greaves
+1 [RTR:200] Sphinx's Revelation
+1 [10E:347] Adarkar Wastes
+1 [DIS:159] Azorius Signet
+1 [KLD:226] Panharmonicon
+1 [FRF:32] Cloudform
+1 [GTC:33] Diluvian Primordial
+1 [M12:73] Ponder
+1 [BNG:163] Temple of Enlightenment
+1 [EMA:9] Enlightened Tutor
+1 [SOI:16] Eerie Interlude
+1 [EMA:247] Tranquil Cove
+1 [EMA:62] Mystical Tutor
+1 [EMA:64] Peregrine Drake
+1 [C16:263] Myr Battlesphere
+1 [DDM:10] Sea Gate Oracle
+1 [RTR:155] Detention Sphere
+1 [DDI:15] Cryptic Annelid
+1 [CN2:22] Recruiter of the Guard
+1 [FNMP:130] Wall of Omens
+1 [M14:224] Strionic Resonator
+1 [C14:298] Ghost Quarter
+1 [9ED:54] Weathered Wayfarer
+1 [BFZ:241] Prairie Stream
+1 [M14:43] Archaeomancer
+1 [DGM:80] Lavinia of the Tenth
+1 [ZEN:18] Kor Cartographer
+1 [MRD:159] Crystal Shard
+SB: 1 [VMA:246] Brago, King Eternal
+LAYOUT MAIN:(1,8)(CMC,false,50)|([DIS:174],[10E:347],[VMA:322],[C14:298],[CMD:269],[SOI:278],[M13:225],[BFZ:241],[EMA:247],[BNG:163],[C16:331],[FNMP:153],[RTR:245],[NPH:169],[NPH:168],[NPH:169],[NPH:168],[NPH:168],[NPH:169],[NPH:169],[NPH:168],[NPH:169],[NPH:168],[NPH:167],[NPH:167],[NPH:167],[NPH:167],[NPH:167],[NPH:167],[NPH:167],[NPH:167],[NPH:166],[NPH:167],[NPH:167],[NPH:167])([MPS:24],[SOI:44],[FNMP:182],[CNS:84],[CNS:91],[EMA:9],[EMA:62],[M12:73],[9ED:54],[LEG:195])([M14:224],[DIS:159],[MPS:22],[MRD:256],[FNMP:130],[M11:45],[RTR:35],[MPS:14],[DDI:6],[EMA:35])([C13:1],[PLC:45],[MRD:35],[FRF:32],[FRF:16],[DDM:10],[MRD:159],[DDQ:1],[CN2:22],[C15:244],[RTR:155],[C16:280],[SOI:16],[NPH:4],[AVR:57],[RTR:200])([KLD:226],[V13:7],[VMA:37],[ZEN:18],[MPS:25],[DDI:15],[M12:37],[VMA:74],[FUT:46],[TSP:39],[MOR:44],[TPR:222],[M14:43],[ORI:83],[10E:61])([SHM:248],[KLD:176],[KLD:4],[DGM:80],[DDI:1],[VMA:32],[EMA:64],[ISD:17])([AVR:47],[EMA:220])([GTC:33],[GTC:20],[C16:263])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([VMA:246])

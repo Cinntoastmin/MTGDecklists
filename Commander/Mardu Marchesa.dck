@@ -1,0 +1,88 @@
+1 [JR:72] Swords to Plowshares
+1 [EMA:210] Vindicate
+1 [CMD:231] Terminate
+1 [JR:35] Demonic Tutor
+1 [C16:331] Temple of the False God
+1 [C16:211] Merciless Eviction
+1 [V14:11] Smokestack
+1 [CMD:21] Mother of Runes
+1 [C15:247] Boros Signet
+1 [CN2:75] Kaya, Ghost Assassin
+1 [PTC:96] Deflecting Palm
+1 [AVR:209] Gisela, Blade of Goldnight
+1 [C16:4] Selfless Squire
+1 [C16:3] Orzhov Advokist
+1 [C16:19] Goblin Spymaster
+1 [M12:98] Grave Titan
+1 [GTC:245] Sacred Foundry
+1 [NPH:17] Norn's Annex
+1 [VMA:281] Skullclamp
+1 [GTC:242] Godless Shrine
+1 [GTC:6] Blind Obedience
+1 [C13:84] Ophiomancer
+1 [AVR:97] Descent into Madness
+1 [UDS:1] Academy Rector
+1 [10E:350] Caves of Koilos
+1 [CMD:38] Windborn Muse
+1 [C15:234] Teysa, Envoy of Ghosts
+1 [C16:247] Chromatic Lantern
+1 [C16:248] Commander's Sphere
+1 [CN2:41] Custodi Lich
+1 [MPS:24] Sol Ring
+1 [MPS:25] Solemn Simulacrum
+1 [CN2:44] Marchesa's Decree
+1 [FNMP:153] Reliquary Tower
+1 [AER:75] Yahenni's Expertise
+1 [M13:87] Diabolic Revelation
+1 [VMA:291] Badlands
+1 [FNMP:117] Ghostly Prison
+1 [BNG:151] Mogis, God of Slaughter
+1 [ISD:238] Clifftop Retreat
+1 [AER:74] Yahenni, Undying Partisan
+1 [EMA:112] Vampiric Tutor
+1 [M12:39] Sun Titan
+1 [C16:191] Crackling Doom
+1 [KLD:183] Kambal, Consul of Allocation
+1 [C14:74] Grand Abolisher
+1 [JR:52] Land Tax
+1 [THS:227] Temple of Silence
+1 [VMA:308] Plateau
+1 [THS:228] Temple of Triumph
+1 [FNMP:89] Cabal Coffers
+1 [C16:77] Sphere of Safety
+1 [FNMP:182] Path to Exile
+1 [RTR:245] Rogue's Passage
+2 [UNH:139] Mountain
+1 [EMN:40] Selfless Spirit
+1 [WWK:84] Kazuul, Tyrant of the Cliffs
+1 [ISD:242] Isolated Chapel
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [MM2:16] Elesh Norn, Grand Cenobite
+1 [EMN:46] Thalia, Heretic Cathar
+1 [BNG:164] Temple of Malice
+1 [FNMP:149] Evolving Wilds
+1 [CN2:144] Phyrexian Arena
+1 [DDO:1] Elspeth, Sun's Champion
+1 [CN2:57] Skyline Despot
+9 [UNH:136] Plains
+1 [GTC:142] Assemble the Legion
+6 [UNH:138] Swamp
+1 [EMA:9] Enlightened Tutor
+1 [SOK:19] Michiko Konda, Truth Seeker
+1 [C15:170] Vandalblast
+1 [C14:85] Return to Dust
+1 [KLD:75] Diabolic Tutor
+1 [C16:185] Boros Charm
+1 [M10:223] Dragonskull Summit
+1 [C16:266] Orzhov Signet
+1 [C16:268] Rakdos Signet
+1 [RTR:238] Blood Crypt
+1 [MPRP:17] Wrath of God
+1 [C13:240] Crawlspace
+1 [VMA:313] Scrubland
+1 [MPRP:19] Mortify
+1 [DGM:135] Wear // Tear
+1 [5DN:150] Silent Arbiter
+SB: 1 [CN2:78] Queen Marchesa
+LAYOUT MAIN:(1,8)(CMC,false,50)|([VMA:308],[VMA:291],[VMA:313],[FNMP:153],[RTR:238],[GTC:245],[GTC:242],[10E:350],[ISD:238],[M10:223],[FNMP:149],[ISD:242],[THS:228],[THS:227],[BNG:164],[C16:331],[M15:248],[FNMP:89],[RTR:245],[UNH:139],[UNH:139],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138])([JR:52],[EMA:9],[EMA:112],[CMD:21],[FNMP:182],[JR:72],[MPS:24],[C15:170],[VMA:281])([GTC:6],[C16:268],[C15:247],[C16:266],[C14:74],[EMN:40],[CMD:231],[C16:185],[PTC:96],[JR:35])([AER:74],[FNMP:117],[C16:3],[KLD:183],[C16:191],[CN2:144],[EMN:46],[C16:19],[C13:84],[MPRP:19],[DGM:135],[EMA:210],[C16:247],[C16:248],[C13:240])([V14:11],[UDS:1],[CN2:44],[CMD:38],[MPS:25],[C16:4],[C14:85],[BNG:151],[SOK:19],[KLD:75],[MPRP:17],[AER:75],[5DN:150],[CN2:75])([GTC:142],[AVR:97],[NPH:17],[C16:77],[WWK:84],[CN2:41],[M13:87])([C16:211],[DDO:1],[M12:39],[M12:98])([C15:234],[MM2:16],[CN2:57],[AVR:209])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CN2:78])
