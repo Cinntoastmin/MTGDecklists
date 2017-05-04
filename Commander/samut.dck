@@ -1,0 +1,91 @@
+1 [M12:19] Grand Abolisher
+6 [AKH:250] Plains
+1 [THS:17] Heliod, God of the Sun
+1 [BNG:4] Archetype of Courage
+1 [THS:166] Nylea, God of the Hunt
+1 [AVR:6] Avacyn, Angel of Hope
+1 [M13:200] Akroma's Memorial
+1 [RAV:270] Selesnya Signet
+1 [AVR:209] Gisela, Blade of Goldnight
+1 [RTR:226] Chromatic Lantern
+1 [MBS:138] Sword of Feast and Famine
+1 [CN2:73] Adriana, Captain of the Guard
+1 [GPT:150] Gruul Signet
+1 [GTC:247] Stomping Ground
+1 [DTK:186] Explosive Vegetation
+1 [SOI:276] Game Trail
+1 [GTC:245] Sacred Foundry
+1 [JOU:150] Iroas, God of Victory
+5 [AKH:254] Forest
+1 [SOI:274] Fortified Village
+1 [GPT:158] Gruul Turf
+3 [AKH:253] Mountain
+1 [THS:153] Bow of Nylea
+1 [M14:22] Imposing Sovereign
+1 [INV:233] Aura Shards
+1 [C16:286] Command Tower
+1 [ICE:278] Swords to Plowshares
+1 [ALA:170] Godsire
+1 [M13:197] Yeva, Nature's Herald
+1 [SHM:281] Wooded Bastion
+1 [AKH:248] Sheltered Thicket
+1 [BNG:116] Archetype of Endurance
+1 [5DN:86] Eternal Witness
+1 [AKH:201] Khenra Charioteer
+1 [AVR:210] Sigarda, Host of Herons
+1 [AKH:123] By Force
+1 [AKH:247] Scattered Groves
+1 [GTC:156] Domri Rade
+1 [AKH:125] Combat Celebrant
+1 [BNG:156] Xenagos, God of Revels
+1 [CHK:239] Sakura-Tribe Elder
+1 [SOI:31] Odric, Lunarch Marshal
+1 [ISD:239] Gavony Township
+1 [ISD:238] Clifftop Retreat
+1 [M12:39] Sun Titan
+1 [THS:224] Temple of Abandon
+1 [SOM:25] True Conviction
+1 [M13:229] Sunpetal Grove
+1 [M12:217] Solemn Simulacrum
+1 [M13:228] Rootbound Crag
+1 [SHM:278] Reflecting Pool
+1 [M11:168] Cultivate
+1 [KTK:248] Windswept Heath
+1 [JUD:139] Mirari's Wake
+1 [KTK:249] Wooded Foothills
+1 [M15:173] Elvish Mystic
+1 [NPH:103] Beast Within
+1 [3ED:274] Sol Ring
+1 [DGM:120] Zhur-Taa Druid
+1 [AER:109] Heroic Intervention
+1 [CON:15] Path to Exile
+1 [ISD:243] Kessig Wolf Run
+1 [RTR:248] Temple Garden
+1 [EMN:46] Thalia, Heretic Cathar
+1 [THS:182] Voyaging Satyr
+1 [BNG:165] Temple of Plenty
+1 [GTC:148] Boros Charm
+1 [GTC:143] Aurelia, the Warleader
+1 [SOM:110] Asceticism
+1 [SHM:104] Rage Reflection
+1 [ULG:11] Karmic Guide
+1 [ULG:14] Mother of Runes
+1 [M13:23] Odric, Master Tactician
+1 [M12:3] Angelic Destiny
+1 [C16:220] Selvala, Explorer Returned
+1 [ZEN:211] Arid Mesa
+1 [ZEN:172] Oracle of Mul Daya
+1 [RAV:281] Selesnya Sanctuary
+1 [M12:165] Birds of Paradise
+1 [SHM:26] Windbrisk Raptor
+1 [DTK:217] Dragonlord Dromoka
+1 [ISD:170] Avacyn's Pilgrim
+1 [9ED:54] Weathered Wayfarer
+1 [ALA:226] Jungle Shrine
+1 [M13:20] Intrepid Hero
+1 [MRD:199] Lightning Greaves
+1 [BNG:88] Archetype of Aggression
+1 [DTK:130] Berserkers' Onslaught
+SB: 1 [AKH:205] Samut, Voice of Dissent
+LAYOUT MAIN:(1,9)(CMC,false,50)|([AKH:248],[AKH:247],[SOI:276],[SOI:274],[BNG:165],[THS:224],[ISD:239],[ISD:238],[ISD:243],[C16:286],[ZEN:211],[M13:228],[M13:229],[ALA:226],[SHM:281],[GTC:247],[GPT:158],[RTR:248],[GTC:245],[RAV:281],[KTK:248],[KTK:249],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:253],[AKH:253],[AKH:253],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[SHM:278])([AKH:123],[M15:173],[ISD:170],[CON:15],[9ED:54],[M12:165],[ULG:14],[ICE:278],[3ED:274])([AER:109],[THS:182],[M14:22],[DGM:120],[GTC:148],[M12:19],[GPT:150],[RAV:270],[CHK:239],[MRD:199])([AKH:201],[AKH:125],[EMN:46],[C16:220],[BNG:88],[BNG:4],[THS:153],[GTC:156],[RTR:226],[NPH:103],[MBS:138],[M11:168],[5DN:86],[M13:20],[INV:233])([SOI:31],[JOU:150],[THS:166],[THS:17],[M13:197],[M13:23],[M12:3],[ZEN:172],[M12:217],[DTK:186])([CN2:73],[DTK:130],[BNG:156],[AVR:210],[SOM:110],[JUD:139],[ULG:11])([DTK:217],[GTC:143],[SOM:25],[M12:39],[SHM:104])([AVR:209],[SHM:26],[M13:200])([BNG:116],[AVR:6],[ALA:170])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([AKH:205])
