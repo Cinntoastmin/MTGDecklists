@@ -1,0 +1,96 @@
+1 [UDS:115] Pattern of Rebirth
+2 [AKH:250] Plains
+1 [M15:5] Boonweaver Giant
+1 [5ED:2] Animate Dead
+1 [EXO:129] Survival of the Fittest
+1 [ICE:6] Dance of the Dead
+1 [AKH:5] Aven Mindcensor
+1 [ZEN:220] Misty Rainforest
+1 [JR:109] Imperial Seal
+1 [STH:132] Mox Diamond
+1 [M15:194] Reclamation Sage
+1 [3ED:298] Scrubland
+1 [UDS:51] Apprentice Necromancer
+1 [3ED:297] Savannah
+1 [6ED:269] Worldly Tutor
+1 [ZEN:229] Verdant Catacombs
+1 [USG:322] Phyrexian Tower
+1 [KTK:73] Grim Haruspex
+1 [NPH:9] Elesh Norn, Grand Cenobite
+1 [PLS:106] Eladamri's Call
+1 [ODY:132] Entomb
+4 [AKH:252] Swamp
+1 [GTC:242] Godless Shrine
+1 [PLS:42] Diabolic Intent
+3 [AKH:254] Forest
+1 [TMP:266] Altar of Dementia
+1 [6ED:19] Enlightened Tutor
+1 [RAV:105] Shred Memory
+1 [6ED:161] Vampiric Tutor
+1 [MMQ:320] High Market
+1 [3ED:283] Bayou
+1 [C16:286] Command Tower
+1 [M13:159] Acidic Slime
+1 [5ED:191] Sylvan Library
+1 [UDS:1] Academy Rector
+1 [ICE:278] Swords to Plowshares
+1 [ICE:359] Altar of Bone
+1 [5DN:86] Eternal Witness
+1 [DKA:24] Thalia, Guardian of Thraben
+1 [M12:39] Sun Titan
+1 [CHK:268] Sensei's Divining Top
+1 [M15:15] Hushwing Gryff
+1 [ORI:248] Llanowar Wastes
+1 [M13:229] Sunpetal Grove
+1 [BNG:27] Spirit of the Labyrinth
+1 [AVR:86] Blood Artist
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [M11:120] Viscera Seer
+1 [M15:173] Elvish Mystic
+1 [NPH:104] Birthing Pod
+1 [3ED:274] Sol Ring
+1 [TSP:240] Harmonic Sliver
+1 [10E:349] Brushland
+1 [M11:172] Fauna Shaman
+1 [APC:114] Pernicious Deed
+1 [MOR:22] Reveillark
+1 [NPH:73] Sheoldred, Whispering One
+1 [M12:182] Llanowar Elves
+1 [RTR:243] Overgrown Tomb
+1 [ISD:15] Fiend Hunter
+1 [ISD:242] Isolated Chapel
+1 [RTR:248] Temple Garden
+1 [MPS:16] Mana Crypt
+1 [DTK:120] Sidisi, Undead Vizier
+1 [LRW:248] Gaddock Teeg
+1 [MPS-AKH:4] Loyal Retainers
+1 [3ED:13] Demonic Tutor
+1 [WTH:138] Peacekeeper
+1 [ISD:249] Woodland Cemetery
+1 [ULG:11] Karmic Guide
+1 [RAV:81] Dark Confidant
+1 [SOK:14] Kataki, War's Wage
+1 [MRD:152] Chrome Mox
+1 [ICE:132] Fyndhorn Elves
+1 [KTK:239] Polluted Delta
+1 [SCG:59] Carrion Feeder
+1 [DST:140] Skullclamp
+1 [ZEN:211] Arid Mesa
+1 [RAV:161] Elves of Deep Shadow
+1 [M12:165] Birds of Paradise
+1 [TMP:284] Lotus Petal
+1 [KTK:233] Flooded Strand
+1 [TSP:245] Saffi Eriksdotter
+1 [ZEN:13] Iona, Shield of Emeria
+1 [ISD:170] Avacyn's Pilgrim
+1 [KTK:230] Bloodstained Mire
+1 [ZEN:219] Marsh Flats
+1 [ARB:75] Qasali Pridemage
+1 [JOU:10] Eidolon of Rhetoric
+1 [LRW:139] Shriekmaw
+1 [TMP:45] Reanimate
+1 [VIS:14] Necromancy
+SB: 1 [CMD:207] Karador, Ghost Chieftain
+LAYOUT MAIN:(1,9)(CMC,false,50)|([MRD:152],[TMP:284],[MPS:16],[STH:132],[ZEN:211],[3ED:283],[KTK:230],[10E:349],[C16:286],[KTK:233],[AKH:254],[AKH:254],[AKH:254],[GTC:242],[MMQ:320],[ISD:242],[ORI:248],[ZEN:219],[ZEN:220],[RTR:243],[USG:322],[AKH:250],[AKH:250],[KTK:239],[3ED:297],[3ED:298],[M13:229],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[RTR:248],[ZEN:229],[KTK:248],[KTK:249],[ISD:249])([SCG:59],[M11:120],[TMP:45],[6ED:19],[ODY:132],[JR:109],[6ED:161],[6ED:269],[ISD:170],[M12:165],[RAV:161],[M15:173],[ICE:132],[M12:182],[3ED:274],[CHK:268],[DST:140],[ICE:278])([TMP:266],[AVR:86],[TSP:245],[5ED:2],[UDS:51],[ICE:6],[ICE:359],[3ED:13],[PLS:42],[PLS:106],[M11:172],[RAV:105],[EXO:129],[RAV:81],[ARB:75],[5ED:191],[LRW:248],[SOK:14],[BNG:27],[DKA:24])([ISD:15],[MPS-AKH:4],[VIS:14],[5DN:86],[KTK:73],[TSP:240],[APC:114],[M15:194],[AKH:5],[JOU:10],[M15:15],[WTH:138])([UDS:1],[UDS:115],[NPH:104])([M13:159],[ULG:11],[MOR:22],[DTK:120],[LRW:139])([M12:39])([M15:5],[NPH:73],[NPH:9])([ZEN:13])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([CMD:207])
