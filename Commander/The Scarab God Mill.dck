@@ -1,0 +1,87 @@
+1 [TOR:141] Tainted Isle
+1 [ROE:89] Sphinx of Magosi
+1 [MM3:240] Misty Rainforest
+1 [C16:52] Boompile
+1 [RAV:277] Duskmantle, House of Shadow
+1 [C15:281] Command Tower
+1 [RAV:234] Szadek, Lord of Secrets
+1 [MM3:244] Scalding Tarn
+1 [WWK:120] Wrexial, the Risen Deep
+1 [M12:238] Swamp
+1 [9ED:297] Fellwar Stone
+1 [SHM:172] Oona, Queen of the Fae
+1 [ROE:82] Recurring Insight
+1 [HOU:35] Fraying Sanity
+1 [PLC:44] Pongify
+1 [BFZ:63] Oracle of Dust
+1 [EMN:102] Rise from the Grave
+1 [VMA:323] Underground Sea
+1 [JR:105] Command Beacon
+1 [ALL:32] Arcane Denial
+1 [TMP:58] Dismiss
+1 [7ED:289] Charcoal Diamond
+1 [E01:80] Baleful Strix
+1 [RAV:220] Psychic Drain
+1 [JR:60] Mana Crypt
+1 [SOM:32] Dissipation Field
+1 [KTK:216] Altar of the Brood
+1 [5ED:391] Nevinyrral's Disk
+1 [RAV:260] Dimir Signet
+1 [CMA:56] Dread Summons
+1 [ROE:2] Artisan of Kozilek
+1 [CMA:235] Thought Vessel
+1 [GTC:158] Duskmantle Guildmage
+1 [M14:207] Darksteel Ingot
+1 [MRD:253] Talisman of Dominance
+1 [ISD:235] Trepanation Blade
+1 [BNG:155] Siren of the Silent Song
+1 [M14:60] Jace, Memory Adept
+1 [GTC:152] Consuming Aberration
+1 [M12:63] Mana Leak
+1 [AVR:43] Amass the Components
+1 [MBS:20] Blue Sun's Zenith
+1 [ODY:319] Darkwater Catacombs
+1 [THS:225] Temple of Deceit
+1 [M12:219] Swiftfoot Boots
+1 [SCG:64] Decree of Pain
+1 [M12:217] Solemn Simulacrum
+1 [LRW:291] Swamp
+1 [9ED:152] Phyrexian Arena
+1 [AVR:42] Alchemist's Apprentice
+1 [10E:82] Dreamborn Muse
+1 [M13:223] Drowned Catacomb
+1 [MMQ:61] Brainstorm
+1 [3ED:274] Sol Ring
+1 [10E:108] Sift
+1 [ISD:245] Nephalia Drownyard
+1 [GTC:189] Psychic Strike
+9 [UNH:137] Island
+1 [GTC:71] Lord of the Void
+8 [UNH:138] Swamp
+1 [MBS:33] Steel Sabotage
+1 [SOI:270] Choked Estuary
+1 [LRW:76] Mulldrifter
+1 [OGW:75] Oblivion Strike
+1 [ROE:91] Training Grounds
+1 [KTK:239] Polluted Delta
+1 [TMP:80] Propaganda
+1 [CMA:213] Commander's Sphere
+1 [10E:335] Mind Stone
+1 [KTK:233] Flooded Strand
+1 [7ED:67] Counterspell
+1 [ISD:89] Bloodgift Demon
+1 [KTK:230] Bloodstained Mire
+1 [ZEN:219] Marsh Flats
+1 [DKA:41] Increasing Confusion
+1 [DGM:85] Mirko Vosk, Mind Drinker
+1 [DGM:138] Dimir Cluestone
+1 [HOU:159] Crook of Condemnation
+1 [MRD:199] Lightning Greaves
+1 [GTC:178] Mind Grind
+1 [FRF:46] Reality Shift
+1 [GTC:84] Wight of Precinct Six
+1 [SOI:50] Broken Concentration
+1 [CSP:136] Coldsteel Heart
+SB: 1 [HOU:145] The Scarab God
+LAYOUT MAIN:(1,10)(CMC,false,50)|([TOR:141],[THS:225],[ISD:245],[SOI:270],[ODY:319],[M13:223],[RAV:277],[VMA:323],[KTK:239],[MM3:244],[KTK:233],[MM3:240],[KTK:230],[ZEN:219],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[LRW:291],[M12:238],[JR:60],[C15:281],[JR:105])([KTK:216],[3ED:274],[DKA:41],[MMQ:61],[PLC:44],[MBS:33],[ROE:91])([7ED:289],[CSP:136],[HOU:159],[RAV:260],[9ED:297],[MRD:199],[10E:335],[M12:219],[MRD:253],[CMA:235],[CMA:56],[GTC:178],[RAV:220],[ALL:32],[7ED:67],[M12:63],[FRF:46],[AVR:42],[E01:80],[GTC:158],[GTC:84])([CMA:213],[M14:207],[DGM:138],[ISD:235],[MBS:20],[SOI:50],[GTC:189],[HOU:35],[9ED:152],[TMP:80],[BNG:155])([C16:52],[5ED:391],[AVR:43],[OGW:75],[10E:108],[TMP:58],[SOM:32],[10E:82],[M12:217])([EMN:102],[M14:60],[ISD:89],[GTC:152],[DGM:85],[LRW:76],[BFZ:63])([ROE:82],[SHM:172],[ROE:89],[WWK:120])([GTC:71],[RAV:234])([SCG:64])([ROE:2])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([HOU:145])

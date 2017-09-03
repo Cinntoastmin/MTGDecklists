@@ -1,0 +1,65 @@
+1 [SOM:165] Horizon Spellbomb
+1 [MBS:88] Praetor's Counsel
+1 [EVE:68] Helix Pinnacle
+1 [HOU:172] Desert of the Indomitable
+6 [ZEN:266] Forest
+1 [10E:249] Abundance
+1 [USG:327] Slippery Karst
+1 [SCG:128] Sprouting Vines
+7 [ZEN:267] Forest
+3 [ZEN:268] Forest
+7 [ZEN:269] Forest
+1 [BFZ:192] Sylvan Scrying
+1 [ORI:189] Nissa, Vastwood Seer
+1 [MRD:123] Journey of Discovery
+1 [PLC:149] Harmonize
+1 [PLS:85] Nemata, Grove Guardian
+1 [BFZ:233] Blighted Woodland
+1 [ROE:183] Gelatinous Genesis
+1 [ONS:326] Tranquil Thicket
+1 [C16:162] Realm Seekers
+1 [TSB:88] Verdeloth the Ancient
+1 [M13:159] Acidic Slime
+1 [5ED:191] Sylvan Library
+1 [M10:166] Ant Queen
+1 [TSP:222] Squall Line
+1 [CMA:235] Thought Vessel
+1 [WWK:118] Wolfbriar Elemental
+1 [BNG:119] Courser of Kruphix
+1 [M12:192] Rites of Flourishing
+1 [5DN:86] Eternal Witness
+1 [ISD:196] Mulch
+1 [SOM:122] Genesis Wave
+1 [JOU:128] Hydra Broodmaster
+1 [CHK:225] Kodama's Reach
+1 [CHK:266] Orochi Hatchery
+1 [M13:227] Reliquary Tower
+1 [M11:168] Cultivate
+1 [NPH:103] Beast Within
+1 [3ED:274] Sol Ring
+1 [M15:176] Genesis Hydra
+1 [TSP:234] Wurmcalling
+7 [ZEN:249] Forest
+1 [M13:191] Silklash Spider
+4 [ZEN:246] Forest
+6 [ZEN:247] Forest
+5 [ZEN:248] Forest
+1 [7ED:266] Rowen
+1 [MRD:267] Tower of Fortunes
+1 [ONS:268] Kamahl, Fist of Krosa
+1 [CHK:257] Journeyer's Kite
+1 [WWK:130] Seer's Sundial
+1 [CON:134] Armillary Sphere
+1 [TSP:203] Magus of the Candelabra
+1 [M11:198] Sylvan Ranger
+1 [TSP:202] Krosan Grip
+1 [KTK:150] Seek the Horizon
+1 [USG:254] Gaea's Bounty
+1 [ORI:190] Nissa's Pilgrimage
+1 [ONS:272] Krosan Tusker
+1 [THS:172] Polukranos, World Eater
+1 [INV:185] Elfhame Sanctuary
+1 [UDS:124] Yavimaya Elder
+SB: 1 [SOK:145] Sasaya, Orochi Ascendant
+LAYOUT MAIN:(1,9)(CMC,false,50)|([CHK:266],[BFZ:233],[HOU:172],[M13:227],[USG:327],[ONS:326],[ZEN:247],[ZEN:247],[ZEN:246],[ZEN:267],[ZEN:268],[ZEN:266],[ZEN:249],[ZEN:267],[ZEN:266],[ZEN:249],[ZEN:267],[ZEN:247],[ZEN:269],[ZEN:267],[ZEN:269],[ZEN:248],[ZEN:248],[ZEN:266],[ZEN:266],[ZEN:269],[ZEN:269],[ZEN:247],[ZEN:267],[ZEN:268],[ZEN:249],[ZEN:269],[ZEN:246],[ZEN:249],[ZEN:266],[ZEN:268],[ZEN:249],[ZEN:248],[ZEN:246],[ZEN:269],[ZEN:269],[ZEN:248],[ZEN:266],[ZEN:246],[ZEN:247],[ZEN:248],[ZEN:249],[ZEN:249],[ZEN:267],[ZEN:267],[ZEN:247])([TSP:203],[ROE:183],[TSP:234],[SOM:165],[3ED:274],[EVE:68])([M15:176],[M11:198],[TSP:222],[ISD:196],[BFZ:192],[CON:134],[CHK:257],[CMA:235],[INV:185],[5ED:191])([BNG:119],[5DN:86],[ORI:189],[UDS:124],[NPH:103],[TSP:202],[SCG:128],[M11:168],[USG:254],[SOM:122],[MRD:123],[CHK:225],[ORI:190],[M12:192])([THS:172],[WWK:118],[PLC:149],[KTK:150],[WWK:130],[MRD:267],[10E:249],[7ED:266])([M13:159],[M10:166],[M13:191])([JOU:128],[ONS:268],[PLS:85],[C16:162],[TSB:88])([ONS:272])([MBS:88])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([SOK:145])

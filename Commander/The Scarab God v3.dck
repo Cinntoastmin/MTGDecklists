@@ -1,0 +1,73 @@
+1 [RAV:276] Dimir Aqueduct
+1 [M12:116] Vengeful Pharaoh
+1 [HOU:38] Jace's Defeat
+1 [ARB:24] Lich Lord of Unx
+1 [C15:289] High Market
+1 [VMA:323] Underground Sea
+1 [EMN:183] Gisa and Geralf
+1 [M12:98] Grave Titan
+1 [M14:96] Doom Blade
+1 [AER:164] Metallic Mimic
+1 [THS:66] Thassa, God of the Sea
+1 [ISD:71] Rooftop Storm
+1 [C14:23] Ghoulcaller Gisa
+1 [MBS:50] Phyrexian Crusader
+1 [10E:155] Lord of the Undead
+1 [KTK:216] Altar of the Brood
+1 [C14:28] Overseer of the Damned
+1 [RAV:260] Dimir Signet
+1 [DKA:135] Diregraf Captain
+1 [DKA:139] Havengul Lich
+1 [DTK:116] Risen Executioner
+1 [DKA:64] Gravecrawler
+1 [MM2:213] Expedition Map
+1 [FUT:93] Yixlid Jailer
+1 [BNG:152] Phenax, God of Deception
+1 [M12:63] Mana Leak
+1 [C15:54] Seal of the Guildpact
+1 [BFZ:249] Sunken Hollow
+1 [THS:225] Temple of Deceit
+1 [M12:217] Solemn Simulacrum
+1 [AKH:99] Lord of the Accursed
+1 [NPH:144] Mindcrank
+1 [AKH:98] Liliana's Mastery
+1 [10E:144] Grave Pact
+1 [3ED:274] Sol Ring
+1 [C15:56] Command Beacon
+1 [ISD:99] Endless Ranks of the Dead
+1 [MPS:14] Lightning Greaves
+1 [ZEN:47] Hedron Crab
+1 [EMN:86] Cryptbreaker
+1 [EMN:87] Dark Salvation
+1 [AKH:237] Throne of the God-Pharaoh
+1 [MM3:35] Cyclonic Rift
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [DTK:120] Sidisi, Undead Vizier
+1 [JOU:65] Dictate of Erebos
+1 [SOM:64] Geth, Lord of the Vault
+1 [GTC:189] Psychic Strike
+1 [SOI:63] Forgotten Creation
+1 [HOP:132] Cabal Coffers
+1 [THS:85] Erebos, God of the Dead
+12 [UNH:137] Island
+19 [UNH:138] Swamp
+1 [SOI:270] Choked Estuary
+1 [ROE:91] Training Grounds
+1 [CMA:213] Commander's Sphere
+1 [10E:335] Mind Stone
+1 [SOI:109] Ever After
+1 [7ED:67] Counterspell
+1 [ISD:87] Army of the Damned
+1 [ZEN:212] Crypt of Agadeem
+1 [C16:309] Myriad Landscape
+1 [SOI:107] Diregraf Colossus
+1 [ZEN:215] Jwar Isle Refuge
+1 [ISD:214] Grimgrin, Corpse-Born
+1 [V14:8] Living Death
+1 [MM2:234] Wayfarer's Bauble
+1 [M13:65] Rewind
+1 [GTC:82] Undercity Informer
+1 [M12:85] Call to the Grave
+SB: 1 [HOU:145] The Scarab God
+LAYOUT MAIN:(1,9)(CMC,false,50)|([SOI:270],[ZEN:212],[RAV:276],[ZEN:215],[BFZ:249],[THS:225],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[HOP:132],[M15:248],[VMA:323],[C16:309],[C15:56],[C15:289])([EMN:86],[DKA:64],[ZEN:47],[EMN:87],[ROE:91],[KTK:216],[3ED:274],[MM2:213],[MM2:234])([AER:164],[FUT:93],[RAV:260],[10E:335],[AKH:237],[7ED:67],[M14:96],[HOU:38],[M12:63],[MM3:35],[NPH:144],[MPS:14])([DKA:135],[SOI:107],[ARB:24],[AKH:99],[10E:155],[MBS:50],[GTC:82],[CMA:213],[GTC:189],[THS:66])([SOI:63],[EMN:183],[DTK:116],[M12:217],[ISD:99],[M13:65],[10E:144],[THS:85])([C14:23],[ISD:214],[DKA:139],[BNG:152],[DTK:120],[AKH:98],[C15:54],[M12:85],[V14:8],[JOU:65],[M12:116])([SOM:64],[M12:98],[SOI:109],[ISD:71])([C14:28])([ISD:87])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([HOU:145])

@@ -1,0 +1,83 @@
+1 [BOK:107] Heartless Hidetsugu
+1 [M11:229] Terramorphic Expanse
+1 [SHM:98] Knollspine Dragon
+1 [ZEN:222] Piranha Marsh
+1 [CMA:245] Command Tower
+1 [TOR:142] Tainted Peak
+1 [M15:110] Ob Nixilis, Unshackled
+1 [DIS:178] Rakdos Carnarium
+1 [M15:101] Indulgent Tormentor
+1 [EMN:147] Thermo-Alchemist
+1 [RTR:188] Rakdos's Return
+1 [M12:160] Warstorm Surge
+1 [SOI:272] Foreboding Ruins
+1 [AER:181] Walking Ballista
+1 [PLC:119] Pyrohemia
+1 [THS:110] Whip of Erebos
+1 [M12:106] Rune-Scarred Demon
+1 [ROE:6] Kozilek, Butcher of Truth
+1 [M12:147] Inferno Titan
+1 [ROE:7] It That Betrays
+1 [C16:122] Chaos Warp
+1 [ROE:2] Artisan of Kozilek
+1 [RTR:184] Rakdos Charm
+1 [RTR:212] Cryptborn Horror
+1 [DGM:154] Rakdos Guildgate
+1 [DIS:165] Rakdos Signet
+1 [ROE:9] Pathrazer of Ulamog
+1 [SOM:205] Steel Hellkite
+1 [M14:207] Darksteel Ingot
+1 [EMN:193] Cryptolith Fragment
+1 [M13:88] Disciple of Bolas
+1 [MRD:255] Talisman of Indulgence
+1 [AKH:242] Evolving Wilds
+1 [SOI:181] Sin Prodder
+1 [BFZ:4] Conduit of Ruin
+1 [M12:219] Swiftfoot Boots
+1 [BFZ:1] Bane of Bala Ged
+1 [M12:217] Solemn Simulacrum
+1 [M12:139] Goblin Fireslinger
+1 [9ED:152] Phyrexian Arena
+1 [KLD:187] Unlicensed Disintegration
+1 [ARB:46] Terminate
+1 [M13:222] Dragonskull Summit
+1 [3ED:274] Sol Ring
+11 [UNH:139] Mountain
+1 [TSP:242] Kaervek the Merciless
+1 [RTR:166] Havoc Festival
+1 [AVR:107] Harvester of Souls
+1 [AKH:239] Canyon Slough
+1 [BNG:164] Temple of Malice
+1 [RTR:99] Lobber Crew
+1 [HOU:104] Neheb, the Eternal
+1 [BFZ:131] Nettle Drone
+1 [3ED:13] Demonic Tutor
+1 [FRF:79] Palace Siege
+10 [UNH:138] Swamp
+1 [THS:213] Burnished Hart
+1 [ROE:12] Ulamog, the Infinite Gyre
+1 [FRF:165] Bloodfell Caves
+1 [KLD:112] Combustible Gearhulk
+1 [KLD:75] Diabolic Tutor
+1 [M13:217] Staff of Nin
+1 [KLD:110] Chandra, Torch of Defiance
+1 [WWK:132] Bojuka Bog
+1 [C16:49] Vial Smasher the Fierce
+1 [ZEN:210] Akoum Refuge
+1 [ISD:89] Bloodgift Demon
+1 [RTR:157] Dreadbore
+1 [RTR:111] Vandalblast
+1 [M15:114] Sign in Blood
+1 [RTR:238] Blood Crypt
+1 [THS:90] Hero's Downfall
+1 [ISD:130] Blasphemous Act
+1 [BFZ:15] Ulamog, the Ceaseless Hunger
+1 [BFZ:121] Retreat to Hagra
+1 [ORI:114] Read the Bones
+1 [MRD:199] Lightning Greaves
+1 [BFZ:247] Smoldering Marsh
+1 [BFZ:6] Desolation Twin
+1 [BFZ:17] Void Winnower
+SB: 1 [RTR:187] Rakdos, Lord of Riots
+LAYOUT MAIN:(1,12)(CMC,false,50)|([ZEN:210],[RTR:238],[FRF:165],[WWK:132],[AKH:239],[CMA:245],[M13:222],[AKH:242],[SOI:272],[ZEN:222],[DIS:178],[DGM:154],[BFZ:247],[TOR:142],[BNG:164],[M11:229],[AER:181],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138])([M12:139],[3ED:274],[RTR:111])([3ED:13],[RTR:157],[MRD:199],[RTR:184],[DIS:165],[RTR:188],[M15:114],[M12:219],[MRD:255],[ARB:46],[EMN:147])([THS:213],[C16:122],[RTR:212],[EMN:193],[M14:207],[THS:90],[RTR:99],[BFZ:131],[9ED:152],[ORI:114],[BFZ:121],[SOI:181],[KLD:187],[C16:49])([KLD:110],[KLD:75],[M13:88],[PLC:119],[M12:217],[THS:110])([ISD:89],[BOK:107],[M15:101],[HOU:104],[FRF:79])([KLD:112],[BFZ:4],[AVR:107],[RTR:166],[M12:147],[M15:110],[M13:217],[SOM:205],[M12:160])([BFZ:1],[TSP:242],[SHM:98],[M12:106])([ROE:2],[ISD:130],[BFZ:17])([BFZ:6],[ROE:6],[BFZ:15])([ROE:9],[ROE:12])([ROE:7])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([RTR:187])

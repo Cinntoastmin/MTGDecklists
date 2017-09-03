@@ -1,0 +1,94 @@
+1 [FRF:131] Frontier Siege
+1 [C13:32] Blue Sun's Zenith
+1 [V12:8] Grove of the Burnwillows
+1 [M11:226] Mystifying Maze
+1 [EXP:22] Scalding Tarn
+1 [ARC:108] Gruul Signet
+1 [MBS:81] Green Sun's Zenith
+1 [M15:195] Restock
+1 [V16:13] Tolaria West
+1 [MLP:12] Steel Hellkite
+1 [C14:265] Ruby Medallion
+1 [MLP:14] Phyrexian Metamorph
+1 [VMA:321] Tropical Island
+1 [EXP:15] Breeding Pool
+1 [MIR:153] Worldly Tutor
+1 [VMA:324] Volcanic Island
+1 [GTC:203] Unexpected Results
+1 [GTC:94] Hellkite Tyrant
+1 [CHK:279] Minamo, School at Water's Edge
+1 [CMD:181] Animar, Soul of Elements
+1 [CNS:164] Exploration
+1 [FNMP:94] Eternal Witness
+1 [FNMP:50] Treetop Village
+1 [CMD:220] Riku of Two Reflections
+1 [FNMP:55] Brainstorm
+1 [FRF:149] Atarka, World Render
+1 [KTK:34] Clever Impersonator
+1 [EXP:12] Steam Vents
+1 [10E:354] Karplusan Forest
+1 [C15:313] Temple of the False God
+1 [ARC:36] Dragonspeaker Shaman
+1 [C14:237] Emerald Medallion
+1 [MPS:24] Sol Ring
+1 [MPS:25] Solemn Simulacrum
+1 [FUT:107] Scourge of Kher Ridges
+1 [FNMP:153] Reliquary Tower
+1 [VMA:212] Genesis
+1 [DTK:230] Sarkhan Unbroken
+1 [VMA:252] Fires of Yavimaya
+1 [V12:5] Dryad Arbor
+1 [FNMP:119] Bloodbraid Elf
+1 [FRF:110] Outpost Siege
+1 [MBS:21] Consecrated Sphinx
+1 [WWK:141] Raging Ravine
+1 [ROE:172] World at War
+3 [UNH:140] Forest
+1 [KTK:207] Temur Ascendancy
+1 [MMA:170] Tooth and Nail
+1 [EXP:43] Strip Mine
+1 [C15:188] Kodama's Reach
+1 [KTK:249] Wooded Foothills
+1 [CMD:259] Simic Signet
+4 [UNH:139] Mountain
+1 [MPS:14] Lightning Greaves
+1 [VMA:227] Regrowth
+1 [MPS:17] Mana Vault
+1 [DDG:47] Bogardan Hellkite
+1 [MPS:16] Mana Crypt
+1 [VMA:220] Nature's Lore
+1 [DKA:99] Moonveil Dragon
+1 [ISD:129] Balefire Dragon
+4 [UNH:137] Island
+1 [VMA:184] Scourge of the Throne
+1 [FNMP:109] Mulldrifter
+1 [FUT:161] Coalition Relic
+1 [FUT:160] Cloud Key
+1 [JR:81] Greater Good
+1 [MMQ:104] Soothsaying
+1 [C15:171] Warstorm Surge
+1 [EMA:204] Maelstrom Wanderer
+1 [CMD:164] Krosan Tusker
+1 [C15:294] Mosswort Bridge
+1 [C15:251] Darksteel Ingot
+1 [CHK:175] Kiki-Jiki, Mirror Breaker
+1 [MBS:74] Red Sun's Zenith
+1 [EXP:32] Cascade Bluffs
+1 [EXP:35] Flooded Grove
+1 [NEM:117] Skyshroud Claim
+1 [C16:301] Homeward Path
+1 [ZEN:172] Oracle of Mul Daya
+1 [RAV:163] Farseek
+1 [EMA:242] Mishra's Factory
+1 [VMA:317] Taiga
+1 [DTK:136] Dragon Tempest
+1 [EXP:25] Misty Rainforest
+1 [DTK:138] Dragonlord's Servant
+1 [FNMP:135] Cultivate
+1 [FRF:43] Monastery Siege
+1 [DDI:51] Anger
+1 [EXP:9] Stomping Ground
+1 [CN2:176] Birds of Paradise
+SB: 1 [CMD:204] Intet, the Dreamer
+LAYOUT MAIN:(1,9)(CMC,false,50)|([MPS:16],[V12:5],[EXP:32],[EXP:43],[VMA:321],[VMA:324],[VMA:317],[EXP:9],[EXP:12],[EXP:15],[CHK:279],[C15:294],[M11:226],[EXP:35],[EXP:25],[FNMP:50],[V12:8],[V16:13],[EMA:242],[EXP:22],[10E:354],[WWK:141],[FNMP:153],[KTK:249],[C16:301],[C15:313],[UNH:140],[UNH:140],[UNH:140],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:139],[UNH:139],[UNH:139],[UNH:139])([CN2:176],[CNS:164],[MPS:24],[MPS:17],[MBS:74],[MBS:81],[FNMP:55],[MIR:153],[MMQ:104])([DTK:136],[DTK:138],[C14:237],[C14:265],[MPS:14],[ARC:108],[CMD:259],[RAV:163],[VMA:227],[VMA:220])([CMD:181],[FUT:160],[ARC:36],[FRF:43],[VMA:252],[KTK:207],[FUT:161],[C15:251],[FNMP:135],[C15:188],[C13:32],[FNMP:94])([DDI:51],[FRF:110],[FRF:131],[FNMP:119],[ZEN:172],[MPS:25],[MLP:14],[KTK:34],[JR:81],[NEM:117],[GTC:203])([VMA:212],[CHK:175],[FNMP:109],[M15:195],[ROE:172],[DTK:230],[CMD:220])([C15:171],[DKA:99],[MLP:12],[VMA:184],[MBS:21],[GTC:94])([ISD:129],[FRF:149],[CMD:164],[MMA:170])([FUT:107],[DDG:47],[EMA:204])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([CMD:204])

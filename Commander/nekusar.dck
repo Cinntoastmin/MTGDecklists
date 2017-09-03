@@ -1,0 +1,89 @@
+1 [ALA:222] Crumbling Necropolis
+1 [M12:59] Jace's Archivist
+1 [ALA:224] Grixis Panorama
+1 [SCG:87] Dragon Mage
+1 [AKH:78] Archfiend of Ifnir
+1 [6ED:83] Mystical Tutor
+1 [M10:212] Howling Mine
+1 [M11:103] Liliana's Caress
+1 [6ED:89] Prosperity
+1 [PLS:48] Nightscape Familiar
+1 [DIS:178] Rakdos Carnarium
+1 [TSP:187] Wheel of Fate
+1 [RTR:226] Chromatic Lantern
+1 [GPT:152] Izzet Signet
+1 [ALL:32] Arcane Denial
+1 [RTR:35] Cyclonic Rift
+1 [AKH:211] Commit // Memory
+1 [SOK:42] Kami of the Crescent Moon
+1 [ONS:121] Wheel and Deal
+1 [GPT:159] Izzet Boilerworks
+1 [5ED:275] Winds of Change
+1 [C16:20] Runehorn Hellkite
+1 [C13:89] Price of Knowledge
+1 [JOU:37] Dictate of Kruphix
+1 [M11:217] Temple Bell
+1 [ALA:214] Obelisk of Grixis
+1 [C16:286] Command Tower
+1 [ZEN:82] Bloodchief Ascension
+1 [RAV:260] Dimir Signet
+1 [DIS:32] Skyscribing
+1 [CON:48] Kederekt Parasite
+1 [USG:111] Windfall
+1 [DIS:165] Rakdos Signet
+1 [AER:31] Disallow
+1 [SOI:244] Fevered Visions
+1 [JOU:75] Master of the Feast
+1 [MBS:126] Psychosis Crawler
+1 [FRF:66] Dark Deal
+1 [BNG:68] Fate Unraveler
+1 [PLS:99] Crosis's Charm
+1 [AKH:242] Evolving Wilds
+1 [C15:55] Thought Vessel
+1 [SOM:220] Venser's Journal
+1 [THS:225] Temple of Deceit
+1 [M12:219] Swiftfoot Boots
+1 [CHK:143] Seizan, Perverter of Truth
+1 [LRW:66] Forced Fruition
+1 [SHM:198] Spiteful Visions
+1 [M11:58] Jace Beleren
+1 [M10:115] Underworld Dreams
+1 [M13:227] Reliquary Tower
+1 [10E:83] Evacuation
+1 [M13:223] Drowned Catacomb
+1 [9ED:312] Teferi's Puzzle Box
+1 [M13:222] Dragonskull Summit
+1 [3ED:274] Sol Ring
+1 [M15:122] Waste Not
+1 [EMN:203] Geier Reach Sanitarium
+4 [UNH:139] Mountain
+1 [RTR:247] Steam Vents
+1 [BNG:164] Temple of Malice
+1 [M12:77] Time Reversal
+1 [3ED:13] Demonic Tutor
+8 [UNH:137] Island
+1 [ISD:248] Sulfur Falls
+4 [UNH:138] Swamp
+1 [CON:136] Font of Mythos
+1 [GTC:207] Whispering Madness
+1 [SOM:98] Molten Psyche
+1 [GTC:249] Watery Grave
+1 [M10:104] Megrim
+1 [WWK:132] Bojuka Bog
+1 [3ED:184] Wheel of Fortune
+1 [KTK:239] Polluted Delta
+1 [SCG:143] Temple of the False God
+1 [C15:27] Magus of the Wheel
+1 [TMP:80] Propaganda
+1 [APC:36] Whirlpool Warrior
+1 [7ED:67] Counterspell
+1 [GPT:123] Niv-Mizzet, the Firemind
+1 [KTK:230] Bloodstained Mire
+1 [RTR:238] Blood Crypt
+1 [AKH:107] Shadow of the Grave
+1 [ISD:130] Blasphemous Act
+1 [AVR:151] Reforge the Soul
+1 [LRW:179] Incendiary Command
+SB: 1 [JR:86] Nekusar, the Mindrazer
+LAYOUT MAIN:(1,10)(CMC,false,50)|([RTR:238],[KTK:230],[WWK:132],[C16:286],[ALA:222],[M13:222],[M13:223],[AKH:242],[EMN:203],[ALA:224],[GPT:159],[KTK:239],[DIS:178],[M13:227],[RTR:247],[ISD:248],[THS:225],[BNG:164],[SCG:143],[GTC:249],[TSP:187],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:138],[UNH:138],[UNH:138],[UNH:138])([ZEN:82],[CON:48],[6ED:83],[6ED:89],[3ED:274],[5ED:275])([ALL:32],[7ED:67],[RTR:35],[3ED:13],[RAV:260],[M10:212],[GPT:152],[SOK:42],[M11:103],[PLS:48],[DIS:165],[AKH:107],[DIS:32],[M12:219],[C15:55],[M15:122])([RTR:226],[PLS:99],[FRF:66],[JOU:37],[AER:31],[SOI:244],[M11:58],[M12:59],[C15:27],[JOU:75],[M10:104],[SOM:98],[ALA:214],[TMP:80],[M11:217],[M10:115],[3ED:184],[APC:36],[USG:111])([BNG:68],[CON:136],[SHM:198],[9ED:312],[ONS:121],[GTC:207])([AKH:78],[10E:83],[LRW:179],[MBS:126],[AVR:151],[CHK:143],[M12:77],[SOM:220])([LRW:66],[GPT:123],[C16:20])([SCG:87],[C13:89])([ISD:130])([AKH:211])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([JR:86])

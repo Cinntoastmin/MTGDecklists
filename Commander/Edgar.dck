@@ -1,0 +1,88 @@
+1 [RTR:71] Necropolis Regent
+1 [RAV:275] Boros Garrison
+1 [MBS:43] Go for the Throat
+1 [MMQ:116] Black Market
+1 [M11:229] Terramorphic Expanse
+1 [FRF:175] Wind-Scarred Crag
+1 [DGM:109] Tithe Drinker
+1 [FRF:171] Scoured Barrens
+1 [BFZ:109] Drana, Liberator of Malakir
+1 [ZEN:100] Malakir Bloodwitch
+1 [AKH:2] Anointed Procession
+1 [CMA:245] Command Tower
+1 [GPT:155] Orzhov Signet
+1 [DIS:178] Rakdos Carnarium
+1 [TSP:39] Return to Dust
+1 [DST:159] Well of Lost Dreams
+1 [DGM:57] Blood Baron of Vizkopa
+1 [ISD:100] Falkenrath Noble
+1 [SOI:118] Indulgent Aristocrat
+1 [GTC:242] Godless Shrine
+1 [C17:42] Mathas, Fiend Seeker
+1 [MBS:53] Sangromancer
+1 [GTC:6] Blind Obedience
+1 [C17:40] Licia, Sanguine Tribune
+1 [ZEN:81] Blood Tribute
+1 [AVR:92] Dark Impostor
+1 [ICE:278] Swords to Plowshares
+1 [M13:112] Vampire Nighthawk
+1 [ZEN:196] Blade of the Bloodchief
+1 [USG:318] Worn Powerstone
+1 [C17:8] Teferi's Protection
+1 [C17:5] Kindred Boon
+1 [SOI:248] Olivia, Mobilized for War
+1 [ROE:107] Drana, Kalastria Bloodchief
+1 [DIS:165] Rakdos Signet
+1 [KTK:171] Crackling Doom
+1 [M11:87] Captivating Vampire
+1 [ISD:158] Rakish Heir
+1 [M14:208] Door of Destinies
+1 [WWK:53] Butcher of Malakir
+1 [ONS:175] Syphon Mind
+1 [SOI:242] Anguished Unmaking
+1 [AER:74] Yahenni, Undying Partisan
+1 [AKH:242] Evolving Wilds
+1 [WWK:49] Anowon, the Ruin Sage
+1 [RAV:255] Boros Signet
+1 [9ED:152] Phyrexian Arena
+1 [AVR:86] Blood Artist
+1 [CMA:262] Opal Palace
+1 [C17:17] Kheru Mind-Eater
+1 [C17:14] Bloodline Necromancer
+1 [M13:222] Dragonskull Summit
+1 [C14:7] Fell the Mighty
+1 [3ED:274] Sol Ring
+3 [UNH:139] Mountain
+1 [M14:112] Sanguine Bond
+1 [ISD:242] Isolated Chapel
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [MPS:16] Mana Crypt
+1 [ISD:90] Bloodline Keeper
+1 [AVR:102] Exquisite Blood
+1 [DKA:142] Sorin, Lord of Innistrad
+4 [UNH:136] Plains
+1 [DKA:143] Stromkirk Captain
+10 [UNH:138] Swamp
+1 [C17:20] Patron of the Vein
+1 [FRF:165] Bloodfell Caves
+1 [WWK:132] Bojuka Bog
+1 [C17:27] Kindred Charge
+1 [DST:140] Skullclamp
+1 [ZEN:210] Akoum Refuge
+1 [KTK:237] Nomad Outpost
+1 [C17:25] Disrupt Decorum
+1 [C17:23] Crimson Honor Guard
+1 [C17:22] Bloodsworn Steward
+1 [ROE:122] Pawn of Ulamog
+1 [GPT:122] Mortify
+1 [KTK:230] Bloodstained Mire
+1 [RTR:238] Blood Crypt
+1 [GPT:161] Orzhov Basilica
+1 [ORI:114] Read the Bones
+1 [M12:82] Bloodlord of Vaasgoth
+1 [GTC:177] Merciless Eviction
+1 [SOI:184] Stensia Masquerade
+1 [ISD:215] Olivia Voldaren
+SB: 1 [C17:36] Edgar Markov
+LAYOUT MAIN:(1,9)(CMC,false,50)|([ZEN:210],[RTR:238],[FRF:165],[KTK:230],[WWK:132],[RAV:275],[CMA:245],[M13:222],[AKH:242],[GTC:242],[ISD:242],[KTK:237],[CMA:262],[GPT:161],[DIS:178],[FRF:171],[M11:229],[M15:248],[FRF:175],[UNH:139],[UNH:139],[UNH:139],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[MPS:16])([SOI:118],[ICE:278],[ZEN:196],[DST:140],[3ED:274])([AVR:86],[DGM:109],[MBS:43],[RAV:255],[GPT:155],[DIS:165],[GTC:6])([M11:87],[AVR:92],[BFZ:109],[C17:17],[C17:42],[ROE:122],[ISD:158],[DKA:143],[M13:112],[AER:74],[SOI:242],[KTK:171],[GPT:122],[C17:8],[ORI:114],[USG:318],[9ED:152],[SOI:184],[SOI:248])([ISD:90],[C17:22],[ISD:100],[ISD:215],[MBS:53],[TSP:39],[C17:25],[ONS:175],[M14:208],[DST:159],[AKH:2],[C17:5],[DKA:142])([WWK:49],[DGM:57],[C17:14],[M12:82],[C17:23],[ROE:107],[ZEN:100],[C14:7],[MMQ:116],[M14:112],[AVR:102])([RTR:71],[C17:20],[ZEN:81],[C17:27],[GTC:177])([WWK:53])([C17:40])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([C17:36])

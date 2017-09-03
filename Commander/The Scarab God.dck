@@ -1,0 +1,83 @@
+1 [UGIN:216] Altar of the Brood
+1 [MPS:3] Noxious Gearhulk
+1 [ARB:24] Lich Lord of Unx
+1 [M11:224] Drowned Catacomb
+1 [PTC:49] Sheoldred, Whispering One
+1 [10E:362] Underground River
+1 [TPR:43] Counterspell
+1 [HOU:73] Razaketh, the Foulblooded
+1 [DKA:70] Mikaeus, the Unhallowed
+1 [VMA:323] Underground Sea
+1 [C14:142] Dread Return
+1 [VMA:126] Living Death
+1 [C14:140] Disciple of Bolas
+1 [EMN:183] Gisa and Geralf
+1 [M12:98] Grave Titan
+1 [ORI:98] Fleshbag Marauder
+1 [HOU:165] Mirage Mirror
+1 [ISD:71] Rooftop Storm
+1 [C14:23] Ghoulcaller Gisa
+1 [EMA:223] Isochron Scepter
+1 [EMA:105] Sengir Autocrat
+1 [EMA:87] Entomb
+1 [10E:155] Lord of the Undead
+1 [JR:22] Sol Ring
+1 [CMD:269] Command Tower
+1 [FNMP:53] Reanimate
+1 [C16:289] Darkwater Catacombs
+1 [C15:116] Black Market
+1 [FNMP:153] Reliquary Tower
+1 [DKA:139] Havengul Lich
+1 [FNMP:111] Lightning Greaves
+1 [PTC:60] Consuming Aberration
+1 [SOI:249] Prized Amalgam
+1 [MRD:253] Talisman of Dominance
+1 [M13:87] Diabolic Revelation
+1 [MM2:213] Expedition Map
+1 [MBS:46] Massacre Wurm
+1 [GTC:61] Crypt Ghast
+1 [AKH:243] Fetid Pools
+1 [EMA:112] Vampiric Tutor
+1 [BFZ:249] Sunken Hollow
+1 [MBP:41] Gravecrawler
+1 [FNMP:84] Wonder
+1 [OGW:86] Kalitas, Traitor of Ghet
+1 [AKH:99] Lord of the Accursed
+1 [C15:17] Corpse Augur
+1 [10E:145] Graveborn Muse
+1 [FNMP:89] Cabal Coffers
+1 [ISD:99] Endless Ranks of the Dead
+1 [EMN:86] Cryptbreaker
+1 [MPS:17] Mana Vault
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [ISD:121] Unbreathing Horde
+1 [GRC:11] Mind Stone
+1 [MPS:16] Mana Crypt
+1 [DTK:120] Sidisi, Undead Vizier
+1 [SOM:64] Geth, Lord of the Vault
+1 [GTC:33] Diluvian Primordial
+1 [EMA:108] Toxic Deluge
+1 [MPRP:29] Ponder
+1 [GTC:75] Sepulchral Primordial
+1 [MM3:219] Dimir Signet
+1 [CN2:144] Phyrexian Arena
+4 [UNH:137] Island
+1 [SOI:131] Relentless Dead
+17 [UNH:138] Swamp
+1 [THS:89] Gray Merchant of Asphodel
+1 [C15:20] Dread Summons
+1 [SOI:270] Choked Estuary
+1 [GTC:249] Watery Grave
+1 [ROE:91] Training Grounds
+1 [KTK:239] Polluted Delta
+1 [ZEN:61] Rite of Replication
+1 [C16:104] Windfall
+1 [VMA:116] Demonic Tutor
+1 [C16:229] Whispering Madness
+1 [DGM:88] Notion Thief
+1 [M12:86] Cemetery Reaper
+1 [ISD:214] Grimgrin, Corpse-Born
+1 [ISD:84] Undead Alchemist
+SB: 1 [HOU:145] The Scarab God
+LAYOUT MAIN:(1,9)(CMC,false,50)|([M15:248],[VMA:323],[FNMP:89],[MPS:16],[SOI:270],[CMD:269],[C16:289],[M11:224],[AKH:243],[KTK:239],[FNMP:153],[BFZ:249],[10E:362],[GTC:249],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138])([ROE:91],[EMA:112],[MBP:41],[EMN:86],[JR:22],[EMA:87],[MPRP:29],[FNMP:53],[UGIN:216],[MPS:17],[MM2:213])([MM3:219],[C15:20],[SOI:131],[MRD:253],[TPR:43],[VMA:116],[FNMP:111],[GRC:11],[EMA:223])([HOU:165],[M12:86],[ARB:24],[ORI:98],[10E:155],[CN2:144],[AKH:99],[ISD:121],[SOI:249],[C16:104],[EMA:108])([EMN:183],[EMA:105],[ISD:99],[10E:145],[ISD:84],[GTC:61],[OGW:86],[DGM:88],[FNMP:84],[C15:17],[C14:140],[ZEN:61],[C14:142],[C16:229])([C14:23],[DTK:120],[M13:87],[THS:89],[DKA:139],[ISD:214],[PTC:60],[VMA:126],[C15:116])([ISD:71],[M12:98],[DKA:70],[SOM:64],[MPS:3],[MBS:46])([PTC:49],[GTC:75],[GTC:33])([HOU:73])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([HOU:145])

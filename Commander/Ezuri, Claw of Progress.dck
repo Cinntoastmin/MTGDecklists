@@ -9,13 +9,14 @@ NAME:Ezuri, Claw of Progress
 1 [GTC:119] Experiment One
 1 [V12:9] High Market
 1 [C15:241] Cold-Eyed Selkie
+1 [CMD:159] Hornet Queen
 1 [MBS:81] Green Sun's Zenith
 1 [C15:38] Pathbreaker Ibex
 1 [MMA:151] Kodama's Reach
 1 [NPH:123] Triumph of the Hordes
 1 [DIS:180] Simic Growth Chamber
-1 [DIS:89] Patagia Viper
 1 [DIS:133] Trygon Predator
+1 [GTC:203] Unexpected Results
 1 [GTC:123] Gyre Sage
 1 [DGM:92] Progenitor Mimic
 1 [7ED:284] Wood Elves
@@ -35,19 +36,19 @@ NAME:Ezuri, Claw of Progress
 1 [C15:239] Biomantic Mastery
 1 [BNG:119] Courser of Kruphix
 1 [RTR:139] Wild Beastmaster
+1 [CNS:91] Brainstorm
 1 [DDF:57] Triskelion
 1 [DIS:166] Simic Signet
 1 [MM2:179] Lorescale Coatl
 1 [VMA:251] Edric, Spymaster of Trest
+1 [V12:5] Dryad Arbor
 1 [WWK:96] Avenger of Zendikar
 1 [DD3JVC:12] Mulldrifter
 1 [AVR:47] Deadeye Navigator
-1 [CSP:115] Ohran Viper
 1 [C15:55] Thought Vessel
 1 [EVE:152] Gilder Bairn
-1 [C15:182] Elvish Visionary
 1 [C15:183] Eternal Witness
-11 [UNH:140] Forest
+10 [UNH:140] Forest
 1 [M13:227] Reliquary Tower
 1 [C15:56] Command Beacon
 1 [CNS:177] Sakura-Tribe Elder
@@ -55,21 +56,21 @@ NAME:Ezuri, Claw of Progress
 1 [M12:182] Llanowar Elves
 1 [CN2:182] Forgotten Ancient
 1 [AVR:225] Alchemist's Refuge
-1 [DIS:29] Plaxmanta
 1 [ISD:241] Hinterland Harbor
 1 [DTK:248] Evolving Wilds
 1 [KLD:226] Panharmonicon
 1 [CN2:189] Overrun
 1 [GTC:188] Prime Speaker Zegana
 10 [UNH:137] Island
+1 [DD3GVL:17] Nature's Lore
 1 [BFZ:239] Lumbering Falls
-1 [GTC:209] Zameck Guildmage
 1 [EMA:246] Thornwood Falls
 1 [C15:294] Mosswort Bridge
 1 [10E:296] Seedborn Muse
 1 [C15:175] Bane of Progress
 1 [C15:297] Oran-Rief, the Vastwood
 1 [C15:176] Beastmaster Ascension
+1 [NEM:117] Skyshroud Claim
 1 [C15:213] Coiling Oracle
 1 [ZEN:172] Oracle of Mul Daya
 1 [TSP:202] Krosan Grip
@@ -80,5 +81,5 @@ NAME:Ezuri, Claw of Progress
 1 [NPH:29] Blighted Agent
 1 [CN2:176] Birds of Paradise
 SB: 1 [C15:44] Ezuri, Claw of Progress
-LAYOUT MAIN:(1,8)(CMC,false,50)|([FUT:171],[C15:281],[V12:9],[DIS:180],[DIS:172],[DIS:173],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[M13:227],[C15:56],[ISD:241],[DTK:248],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[BFZ:239],[EMA:246],[C15:294],[C15:297],[MMA:224],[WTH:167],[AVR:225])([GTC:119],[MBS:81],[VMA:283],[M12:182],[CN2:176])([DTK:181],[GTC:123],[RAV:60],[C15:271],[KTK:136],[DIS:166],[C15:55],[C15:182],[CNS:177],[M11:172],[DIS:29],[GTC:209],[C15:213],[JOU:50],[NPH:29])([MRD:36],[C15:32],[C15:241],[MMA:151],[DIS:133],[7ED:284],[AVR:171],[MOR:122],[MMA:161],[C15:47],[BNG:119],[MM2:179],[CSP:115],[C15:183],[C15:176],[TSP:202],[RTR:139],[EVE:152],[VMA:251])([EXO:128],[EVE:22],[DIS:89],[C15:86],[MM2:180],[MPS:25],[CN2:182],[M11:61],[ZEN:172],[NPH:123],[KLD:226])([DD3JVC:12],[10E:296],[CN2:189])([DGM:92],[DDF:57],[AVR:47],[GTC:188],[C15:175],[C15:38])([C15:239],[WWK:96])
+LAYOUT MAIN:(1,8)(CMC,false,50)|([FUT:171],[C15:281],[V12:9],[DIS:180],[DIS:172],[DIS:173],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[M13:227],[C15:56],[ISD:241],[DTK:248],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[BFZ:239],[EMA:246],[C15:294],[C15:297],[MMA:224],[WTH:167],[AVR:225],[V12:5])([GTC:119],[MBS:81],[VMA:283],[M12:182],[CN2:176],[CNS:91])([DTK:181],[GTC:123],[RAV:60],[C15:271],[KTK:136],[DIS:166],[C15:55],[CNS:177],[M11:172],[C15:213],[JOU:50],[NPH:29],[DD3GVL:17])([MRD:36],[C15:32],[C15:241],[MMA:151],[DIS:133],[7ED:284],[AVR:171],[MOR:122],[MMA:161],[C15:47],[BNG:119],[MM2:179],[C15:183],[C15:176],[TSP:202],[RTR:139],[EVE:152],[VMA:251])([EXO:128],[EVE:22],[C15:86],[MM2:180],[MPS:25],[CN2:182],[M11:61],[ZEN:172],[NPH:123],[KLD:226],[NEM:117],[GTC:203])([DD3JVC:12],[10E:296],[CN2:189])([DGM:92],[DDF:57],[AVR:47],[GTC:188],[C15:175],[C15:38])([C15:239],[WWK:96],[CMD:159])
 LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([C15:44])

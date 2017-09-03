@@ -1,0 +1,88 @@
+1 [DTK:181] Den Protector
+1 [ULG:29] Cloud of Faeries
+1 [AER:48] Trophy Mage
+1 [M15:194] Reclamation Sage
+1 [MBS:81] Green Sun's Zenith
+1 [DIS:180] Simic Growth Chamber
+1 [KTK:144] Rattleclaw Mystic
+1 [6ED:269] Worldly Tutor
+1 [RTR:226] Chromatic Lantern
+1 [DTK:80] Stratus Dancer
+1 [RTR:35] Cyclonic Rift
+1 [GTC:247] Stomping Ground
+1 [MRD:165] Duplicant
+1 [GPT:159] Izzet Boilerworks
+1 [BFZ:235] Cinder Glade
+1 [CON:141] Ancient Ziggurat
+1 [GTC:240] Breeding Pool
+1 [VIS:43] Shrieking Drake
+1 [ULG:38] Palinchron
+1 [9ED:283] Wood Elves
+1 [ROE:6] Kozilek, Butcher of Truth
+1 [C16:286] Command Tower
+1 [M13:159] Acidic Slime
+1 [5ED:191] Sylvan Library
+1 [SCG:120] Forgotten Ancient
+1 [ROE:2] Artisan of Kozilek
+1 [SCG:119] Fierce Empath
+1 [KTK:133] Hardened Scales
+1 [DTK:234] Ancestral Statue
+1 [NPH:42] Phyrexian Metamorph
+1 [EMN:155] Eldritch Evolution
+1 [5DN:86] Eternal Witness
+1 [VIS:37] Man-o'-War
+1 [GTC:156] Domri Rade
+1 [AVR:47] Deadeye Navigator
+1 [CHK:239] Sakura-Tribe Elder
+1 [ORI:252] Yavimaya Coast
+1 [AKH:242] Evolving Wilds
+1 [KLD:184] Rashmi, Eternities Crafter
+1 [BFZ:4] Conduit of Ruin
+1 [AKH:192] Vizier of the Menagerie
+1 [CHK:225] Kodama's Reach
+1 [THS:224] Temple of Abandon
+1 [RAV:177] Primordial Sage
+1 [THS:226] Temple of Mystery
+1 [RAV:257] Cloudstone Curio
+1 [M12:217] Solemn Simulacrum
+1 [M13:228] Rootbound Crag
+10 [UNH:140] Forest
+1 [SHM:113] Farhaven Elf
+1 [TSB:97] Mystic Snake
+1 [M13:227] Reliquary Tower
+1 [KTK:206] Surrak Dragonclaw
+1 [M11:168] Cultivate
+1 [KTK:207] Temur Ascendancy
+1 [M15:172] Chord of Calling
+1 [KTK:249] Wooded Foothills
+1 [C16:312] Opal Palace
+1 [FRF:113] Shaman of the Great Hunt
+1 [3ED:274] Sol Ring
+2 [UNH:139] Mountain
+1 [M11:172] Fauna Shaman
+1 [TSP:58] Dream Stalker
+1 [ISD:241] Hinterland Harbor
+1 [RTR:247] Steam Vents
+1 [BFZ:170] Beastcaller Savant
+1 [7ED:71] Equilibrium
+1 [GTC:188] Prime Speaker Zegana
+5 [UNH:137] Island
+1 [ISD:248] Sulfur Falls
+1 [THS:135] Purphoros, God of the Forge
+1 [ROE:12] Ulamog, the Infinite Gyre
+1 [AER:162] Lifecrafter's Bestiary
+1 [EMA:204] Maelstrom Wanderer
+1 [LRW:76] Mulldrifter
+1 [AKH:180] Prowling Serpopard
+1 [M12:165] Birds of Paradise
+1 [ZEN:172] Oracle of Mul Daya
+1 [KTK:234] Frontier Bivouac
+1 [BFZ:15] Ulamog, the Ceaseless Hunger
+1 [MRD:199] Lightning Greaves
+1 [AVR:195] Soul of the Harvest
+1 [USG:88] Peregrine Drake
+1 [DIS:107] Coiling Oracle
+1 [BFZ:17] Void Winnower
+SB: 1 [CMD:181] Animar, Soul of Elements
+LAYOUT MAIN:(1,12)(CMC,false,50)|([CON:141],[GTC:240],[BFZ:235],[C16:286],[AKH:242],[KTK:234],[ISD:241],[GPT:159],[C16:312],[M13:227],[M13:228],[DIS:180],[RTR:247],[GTC:247],[ISD:248],[THS:224],[THS:226],[KTK:249],[ORI:252],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:139],[UNH:139])([M12:165],[MBS:81],[KTK:133],[VIS:43],[3ED:274],[6ED:269])([BFZ:170],[ULG:29],[DIS:107],[RTR:35],[DTK:181],[TSP:58],[M11:172],[MRD:199],[KTK:144],[CHK:239],[DTK:80],[5ED:191])([M15:172],[RTR:226],[RAV:257],[M11:168],[GTC:156],[EMN:155],[7ED:71],[5DN:86],[SHM:113],[SCG:119],[CHK:225],[AER:162],[VIS:37],[AKH:180],[M15:194],[KTK:207],[AER:48],[9ED:283])([DTK:234],[SCG:120],[TSB:97],[ZEN:172],[NPH:42],[THS:135],[KLD:184],[FRF:113],[M12:217],[AKH:192])([M13:159],[LRW:76],[USG:88],[KTK:206])([BFZ:4],[AVR:47],[MRD:165],[GTC:188],[RAV:177],[AVR:195])([ULG:38])([EMA:204])([ROE:2],[BFZ:17])([ROE:6],[BFZ:15])([ROE:12])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([CMD:181])

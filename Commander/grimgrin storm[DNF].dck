@@ -1,0 +1,38 @@
+1 [TMP:298] Scroll Rack
+1 [CN2:107] Desertion
+1 [EMA:57] Jace, the Mind Sculptor
+1 [C16:14] Magus of the Will
+1 [DDQ:68] Diregraf Captain
+1 [ARC:104] Dimir Signet
+1 [C14:148] Magus of the Coffers
+1 [C13:197] Lim-Dul's Vault
+1 [MPS:15] Lotus Petal
+1 [MM3:36] Deadeye Navigator
+1 [VMA:323] Underground Sea
+1 [VMA:148] Yawgmoth's Will
+1 [HOU:145] The Scarab God
+1 [MBP:101] Liliana Vess
+1 [ORI:51] Day's Undoing
+1 [VIS:22] Vampiric Tutor
+1 [ISD:71] Rooftop Storm
+1 [ORI:90] Dark Petition
+1 [MM3:232] Cavern of Souls
+1 [EMA:62] Mystical Tutor
+1 [FNMP:95] Tendrils of Agony
+1 [EMA:64] Peregrine Drake
+1 [FNMP:55] Brainstorm
+1 [ME2:96] Imperial Seal
+1 [KLD:192] Aetherflux Reservoir
+1 [C16:104] Windfall
+1 [EMA:49] Force of Will
+1 [VMA:116] Demonic Tutor
+1 [V16:2] Cabal Ritual
+1 [MPS:24] Sol Ring
+1 [VMA:86] Palinchron
+1 [S99:79] Grim Tutor
+1 [DKA:64] Gravecrawler
+1 [VMA:80] Mind's Desire
+1 [ORI:60] Jace, Vryn's Prodigy
+SB: 1 [ISD:214] Grimgrin, Corpse-Born
+LAYOUT MAIN:(1,8)(CMC,false,50)|([MPS:15],[VMA:323],[MM3:232])([EMA:62],[VIS:22],[DKA:64],[ME2:96],[MPS:24],[FNMP:55])([VMA:116],[V16:2],[ARC:104],[C13:197],[TMP:298],[ORI:60])([S99:79],[DDQ:68],[VMA:148],[C16:14],[ORI:51],[C16:104])([FNMP:95],[KLD:192],[EMA:57])([EMA:49],[C14:148],[EMA:64],[MBP:101],[ORI:90],[CN2:107],[HOU:145])([VMA:80],[ISD:71],[MM3:36])([VMA:86])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ISD:214])

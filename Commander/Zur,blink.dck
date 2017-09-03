@@ -1,0 +1,84 @@
+1 [EVE:22] Glen Elendra Archmage
+1 [LEG:293] Rasputin Dreamweaver
+1 [LRW:88] Sower of Temptation
+1 [AKH:8] Cast Out
+1 [SHM:53] Thought Reflection
+1 [C15:282] Drifting Meadow
+1 [M13:206] Gilded Lotus
+1 [5ED:2] Animate Dead
+1 [ALA:60] Tezzeret the Seeker
+1 [9ED:297] Fellwar Stone
+1 [AKH:5] Aven Mindcensor
+1 [C14:309] Remote Isle
+1 [ORI:5] Auramancer
+1 [PLS:107a] Ertai, the Corrupted
+1 [5DN:3] Auriok Champion
+1 [STH:137] Volrath's Stronghold
+1 [C16:56] Ash Barrens
+1 [FUT:173] Tolaria West
+1 [USG:322] Phyrexian Tower
+1 [USG:92] Rescind
+1 [EXO:3] Cataclysm
+1 [8ED:315] Star Compass
+1 [ONS:322] Riptide Laboratory
+1 [ULG:36] Miscalculation
+1 [FUT:46] Venser, Shaper Savant
+1 [SCG:32] Decree of Silence
+1 [TSP:269] Academy Ruins
+1 [ARB:107] Esper Sojourners
+1 [RAV:260] Dimir Signet
+1 [ARB:17] Architects of Will
+1 [USG:63] Barrin, Master Wizard
+1 [USG:156] Sicken
+1 [AKH:245] Irrigated Farmland
+1 [MRD:253] Talisman of Dominance
+1 [MRD:256] Talisman of Progress
+1 [FUT:90] Street Wraith
+1 [AKH:243] Fetid Pools
+1 [M12:39] Sun Titan
+1 [SOM:187] Nihil Spellbomb
+1 [DD3GVL:59] Polluted Mire
+1 [SHM:75] Puppeteer Clique
+1 [ONS:4] Astral Slide
+1 [M13:227] Reliquary Tower
+1 [USG:7] Clear
+1 [SCG:26] Wipe Clean
+1 [V13:11] Akroma's Vengeance
+1 [ONS:74] Choking Tethers
+1 [ARC:124] Barren Moor
+1 [3ED:274] Sol Ring
+1 [EXP:41] Kor Haven
+1 [ZEN:205] Khalni Gem
+1 [MOR:22] Reveillark
+1 [ARC:133] Secluded Steppe
+1 [DIS:159] Azorius Signet
+1 [TMP:70] Intuition
+1 [ZEN:201] Expedition Map
+1 [NPH:31] Chancellor of the Spires
+1 [AKH:49] Curator of Mysteries
+1 [AKH:46] Censor
+1 [KLD:226] Panharmonicon
+1 [SOM:135] Venser, the Sojourner
+7 [UNH:136] Plains
+7 [UNH:137] Island
+7 [UNH:138] Swamp
+1 [ALA:4] Angelsong
+1 [CMD:281] Lonely Sandbar
+1 [ULG:11] Karmic Guide
+1 [PLC:35] Body Double
+1 [M13:69] Sphinx of Uthuun
+1 [ULG:18] Planar Collapse
+1 [WWK:132] Bojuka Bog
+1 [TSP:123] Pit Keeper
+1 [TSP:28] Mangara of Corondor
+1 [CHK:52] Azami, Lady of Scrolls
+1 [MIR:345] Unfulfilled Desires
+1 [WTH:120] Angelic Renewal
+1 [NEM:17] Parallax Wave
+1 [ODY:100] Scrivener
+1 [M13:22] Oblivion Ring
+1 [FUT:70] Magus of the Abyss
+1 [5ED:78] Dance of Many
+SB: 1 [MM3:204] Zur the Enchanter
+LAYOUT MAIN:(1,9)(CMC,false,50)|([M13:227],[FUT:173],[USG:322],[STH:137],[TSP:269],[ONS:322],[WWK:132],[EXP:41],[C16:56],[C14:309],[DD3GVL:59],[C15:282],[ARC:124],[CMD:281],[ARC:133],[AKH:245],[AKH:243],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138])([3ED:274],[ZEN:201],[USG:156],[SOM:187])([9ED:297],[MRD:253],[MRD:256],[RAV:260],[8ED:315],[DIS:159],[TSP:123],[5DN:3],[5ED:78],[WTH:120],[5ED:2],[ULG:18],[ALA:4],[SCG:26],[ULG:36],[AKH:46],[USG:7])([AKH:5],[ORI:5],[USG:63],[ARB:107],[TSP:28],[M13:22],[ONS:4],[MIR:345],[TMP:70],[USG:92])([KLD:226],[ZEN:205],[FUT:70],[ARB:17],[EVE:22],[FUT:46],[LRW:88],[NEM:17],[ONS:74],[EXO:3],[AKH:8],[AKH:49])([M13:206],[ODY:100],[SHM:75],[CHK:52],[PLS:107a],[PLC:35],[MOR:22],[ULG:11],[FUT:90],[ALA:60],[SOM:135])([LEG:293],[M12:39],[V13:11])([NPH:31],[M13:69],[SHM:53])([SCG:32])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MM3:204])

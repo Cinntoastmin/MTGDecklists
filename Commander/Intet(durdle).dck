@@ -1,0 +1,85 @@
+1 [PLS:111] Hull Breach
+1 [MM3:244] Scalding Tarn
+1 [6ED:83] Mystical Tutor
+1 [ZEN:220] Misty Rainforest
+1 [M10:177] Elvish Piper
+1 [PLC:44] Pongify
+1 [DIS:180] Simic Growth Chamber
+1 [ISD:78] Snapcaster Mage
+1 [GTC:162] Fathom Mage
+1 [6ED:269] Worldly Tutor
+1 [TSB:119] Gemstone Mine
+1 [DIS:137] Voidslime
+1 [M13:170] Farseek
+1 [RTR:226] Chromatic Lantern
+1 [DIS:133] Trygon Predator
+1 [RTR:35] Cyclonic Rift
+1 [GTC:247] Stomping Ground
+1 [DGM:94] Ral Zarek
+1 [DGM:92] Progenitor Mimic
+1 [DGM:91] Plasm Capture
+1 [ONS:320] Lonely Sandbar
+1 [THS:66] Thassa, God of the Sea
+1 [GTC:94] Hellkite Tyrant
+1 [THS:65] Swan Song
+1 [GTC:240] Breeding Pool
+1 [GPT:158] Gruul Turf
+1 [CMD:181] Animar, Soul of Elements
+1 [CNS:164] Exploration
+1 [GPT:75] Shattering Spree
+1 [5DN:36] Serum Visions
+1 [MBP:70] Scavenging Ooze
+1 [C16:122] Chaos Warp
+1 [3ED:121] Regrowth
+1 [CHK:72] Keiga, the Tide Star
+1 [ORI:250] Rogue's Passage
+1 [ISD:155] Past in Flames
+1 [M12:190] Rampant Growth
+1 [CHK:239] Sakura-Tribe Elder
+1 [ISD:61] Laboratory Maniac
+1 [CHK:225] Kodama's Reach
+1 [EMA:232] Sensei's Divining Top
+1 [THS:226] Temple of Mystery
+1 [M13:228] Rootbound Crag
+6 [UNH:140] Forest
+1 [TSB:97] Mystic Snake
+1 [INV:246] Fires of Yavimaya
+1 [M13:227] Reliquary Tower
+1 [M11:168] Cultivate
+1 [AVR:81] Temporal Mastery
+1 [KTK:249] Wooded Foothills
+1 [NPH:103] Beast Within
+1 [MMQ:61] Brainstorm
+1 [M14:162] Wild Ricochet
+1 [TMP:130] Mirri's Guile
+1 [3ED:274] Sol Ring
+1 [3ED:302] Taiga
+6 [UNH:139] Mountain
+1 [MPS:14] Lightning Greaves
+1 [PTC:121] Temur Ascendancy
+1 [AVR:225] Alchemist's Refuge
+1 [USG:103] Time Spiral
+1 [ISD:241] Hinterland Harbor
+1 [RTR:247] Steam Vents
+1 [GTC:34] Enter the Infinite
+1 [M10:73] Sphinx Ambassador
+1 [GTC:188] Prime Speaker Zegana
+1 [FUT:60] Spin into Myth
+8 [UNH:137] Island
+1 [AVR:79] Tamiyo, the Moon Sage
+1 [M13:69] Sphinx of Uthuun
+1 [WWK:137] Halimar Depths
+1 [ZEN:61] Rite of Replication
+1 [SCG:143] Temple of the False God
+1 [ZEN:172] Oracle of Mul Daya
+1 [GPT:123] Niv-Mizzet, the Firemind
+1 [RTR:110] Utvara Hellkite
+1 [ISD:130] Blasphemous Act
+1 [M13:63] Omniscience
+1 [DKA:42] Mystic Retrieval
+1 [WWK:31] Jace, the Mind Sculptor
+1 [AVR:151] Reforge the Soul
+1 [M11:61] Leyline of Anticipation
+SB: 1 [CMD:204] Intet, the Dreamer
+LAYOUT MAIN:(1,12)(CMC,false,50)|([ORI:250],[ONS:320],[DIS:180],[WWK:137],[SCG:143],[M13:228],[M13:227],[GTC:240],[GTC:247],[GPT:158],[ZEN:220],[TSB:119],[THS:226],[AVR:225],[ISD:241],[3ED:302],[RTR:247],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[KTK:249],[MM3:244])([PLC:44],[GPT:75],[TMP:130],[3ED:274],[6ED:83],[6ED:269],[5DN:36],[MMQ:61],[THS:65],[EMA:232],[CNS:164])([CHK:239],[ISD:78],[PLS:111],[RTR:35],[M13:170],[M12:190],[3ED:121],[MPS:14],[MBP:70])([CMD:181],[THS:66],[DIS:133],[NPH:103],[C16:122],[INV:246],[M11:168],[CHK:225],[RTR:226],[DIS:137],[ISD:61],[PTC:121])([M10:177],[GTC:162],[TSB:97],[ZEN:172],[M14:162],[ZEN:61],[DGM:91],[ISD:155],[DKA:42],[DGM:94],[M11:61],[WWK:31])([FUT:60],[AVR:151],[AVR:79])([CHK:72],[GPT:123],[DGM:92],[GTC:188],[GTC:94],[USG:103])([M13:69],[M10:73],[AVR:81])([RTR:110])([ISD:130])([M13:63])([GTC:34])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([CMD:204])

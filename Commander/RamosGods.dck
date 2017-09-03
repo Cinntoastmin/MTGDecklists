@@ -1,0 +1,102 @@
+1 [JOU:146] Athreos, God of Passage
+1 [THS:17] Heliod, God of the Sun
+1 [UDS:15] Replenish
+1 [ORI:5] Auramancer
+1 [CMA:245] Command Tower
+1 [ZEN:229] Verdant Catacombs
+1 [USG:325] Serra's Sanctum
+1 [USG:322] Phyrexian Tower
+1 [RTR:226] Chromatic Lantern
+1 [BNG:148] Karametra, God of Harvests
+1 [GTC:203] Unexpected Results
+1 [JOU:153] Nyx Weaver
+1 [JOU:152] Kruphix, God of Horizons
+1 [BNG:144] Chromanticore
+1 [JOU:151] Keranos, God of Storms
+1 [BNG:145] Ephara, God of the Polis
+1 [JOU:150] Iroas, God of Victory
+1 [CON:142] Exotic Orchard
+1 [6ED:19] Enlightened Tutor
+1 [SHM:122] Mana Reflection
+1 [INV:278] Sterling Grove
+1 [JOU:154] Pharika, God of Affliction
+1 [UDS:1] Academy Rector
+1 [RTR:24] Sphere of Safety
+1 [JOU:163] Mana Confluence
+1 [BNG:156] Xenagos, God of Revels
+1 [BNG:151] Mogis, God of Slaughter
+1 [INV:49] Collective Restraint
+1 [BNG:152] Phenax, God of Deception
+1 [PCY:45] Rhystic Study
+1 [JOU:123] Font of Fertility
+1 [JOU:122] Eidolon of Blossoms
+1 [SHM:278] Reflecting Pool
+1 [JOU:66] Doomwake Giant
+1 [KTK:248] Windswept Heath
+1 [JUD:139] Mirari's Wake
+1 [OGW:147] Zendikar Resurgent
+1 [KTK:249] Wooded Foothills
+1 [CMA:147] Song of the Dryads
+1 [RAV:251] Privileged Position
+1 [RTR:243] Overgrown Tomb
+1 [KTK:241] Sandsteppe Citadel
+1 [RTR:248] Temple Garden
+1 [RTR:247] Steam Vents
+1 [HOU:189] Forest
+1 [HOU:186] Island
+1 [HOU:185] Plains
+1 [THS:85] Erebos, God of the Dead
+1 [HOU:188] Mountain
+1 [HOU:187] Swamp
+1 [GTC:249] Watery Grave
+1 [KTK:239] Polluted Delta
+1 [KTK:237] Nomad Outpost
+1 [KTK:238] Opulent Palace
+1 [RTR:241] Hallowed Fountain
+1 [KTK:236] Mystic Monastery
+1 [KTK:233] Flooded Strand
+1 [KTK:234] Frontier Bivouac
+1 [KTK:230] Bloodstained Mire
+1 [RTR:238] Blood Crypt
+1 [USG:171] Yawgmoth's Will
+1 [ALA:220] Arcane Sanctum
+1 [CON:102] Conflux
+1 [ALA:222] Crumbling Necropolis
+1 [THS:166] Nylea, God of the Hunt
+1 [SOI:237] Vessel of Nascency
+1 [GTC:247] Stomping Ground
+1 [GTC:245] Sacred Foundry
+1 [GTC:242] Godless Shrine
+1 [THS:66] Thassa, God of the Sea
+1 [GTC:240] Breeding Pool
+1 [INV:237] Captain Sisay
+1 [MMQ:320] High Market
+1 [5ED:191] Sylvan Library
+1 [BNG:119] Courser of Kruphix
+1 [5DN:86] Eternal Witness
+1 [M14:207] Darksteel Ingot
+1 [SOK:163] Miren, the Moaning Well
+1 [INV:249] Hanna, Ship's Navigator
+1 [M12:217] Solemn Simulacrum
+1 [BFZ:209] Bring to Light
+1 [9ED:152] Phyrexian Arena
+1 [3ED:274] Sol Ring
+1 [RTR:201] Supreme Verdict
+1 [APC:114] Pernicious Deed
+1 [ISD:122] Unburial Rites
+1 [AVR:226] Cavern of Souls
+1 [PCA:101] Maelstrom Wanderer
+1 [ORI:33] Starfield of Nyx
+1 [THS:135] Purphoros, God of the Forge
+1 [GTC:204] Urban Evolution
+1 [NEM:117] Skyshroud Claim
+1 [RTR:155] Detention Sphere
+1 [ALA:226] Jungle Shrine
+1 [FRF:43] Monastery Siege
+1 [ALA:228] Savage Lands
+1 [ALA:229] Seaside Citadel
+1 [M11:61] Leyline of Anticipation
+1 [VIS:14] Necromancy
+SB: 1 [C17:55] Ramos, Dragon Engine
+LAYOUT MAIN:(1,9)(CMC,false,50)|([ALA:220],[RTR:238],[KTK:230],[GTC:240],[AVR:226],[CMA:245],[ALA:222],[CON:142],[KTK:233],[HOU:189],[KTK:234],[GTC:242],[RTR:241],[MMQ:320],[HOU:186],[ALA:226],[JOU:163],[SOK:163],[HOU:188],[KTK:236],[KTK:237],[KTK:238],[RTR:243],[USG:322],[HOU:185],[KTK:239],[SHM:278],[GTC:245],[KTK:241],[ALA:228],[ALA:229],[USG:325],[RTR:247],[GTC:247],[HOU:187],[RTR:248],[ZEN:229],[GTC:249],[KTK:248],[KTK:249])([6ED:19],[JOU:123],[3ED:274],[SOI:237])([INV:278],[5ED:191])([RTR:226],[M14:207],[RTR:155],[FRF:43],[VIS:14],[APC:114],[9ED:152],[PCY:45],[CMA:147],[USG:171],[JOU:146],[ORI:5],[BNG:119],[5DN:86],[INV:249],[JOU:153],[JOU:154],[THS:66])([INV:49],[M11:61],[UDS:15],[NEM:117],[RTR:201],[GTC:203],[UDS:1],[INV:237],[JOU:122],[BNG:145],[THS:85],[THS:17],[JOU:150],[BNG:151],[THS:166],[THS:135],[M12:217])([BFZ:209],[JUD:139],[RAV:251],[RTR:24],[ORI:33],[ISD:122],[GTC:204],[BNG:144],[JOU:66],[BNG:148],[JOU:151],[JOU:152],[BNG:152],[BNG:156])([SHM:122])([OGW:147])([CON:102],[PCA:101])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([C17:55])

@@ -1,0 +1,81 @@
+1 [RAV:158] Doubling Season
+1 [ROE:191] Kazandu Tuskcaller
+1 [KLD:165] Oviya Pashiri, Sage Lifecrafter
+1 [AKH:2] Anointed Procession
+1 [CMA:245] Command Tower
+1 [RAV:270] Selesnya Signet
+1 [RTR:194] Selesnya Charm
+1 [RTR:150] Collective Blessing
+1 [RTR:223] Sundering Growth
+1 [RTR:146] Call of the Conclave
+1 [M13:174] Garruk, Primal Hunter
+1 [DST:159] Well of Lost Dreams
+1 [RTR:143] Armada Wurm
+1 [BNG:148] Karametra, God of Harvests
+1 [BFZ:26] Felidar Sovereign
+1 [DGM:51] Advent of the Wurm
+1 [AER:123] Rishkar's Expertise
+1 [M13:32] Serra Avatar
+1 [GTC:121] Giant Adephage
+1 [THS:9] Elspeth, Sun's Champion
+1 [BFZ:234] Canopy Vista
+1 [SOI:274] Fortified Village
+1 [M14:3] Angelic Accord
+1 [AVR:10] Cathars' Crusade
+1 [SOM:175] Mimic Vat
+1 [AVR:171] Champion of Lambholt
+1 [RAV:21] Hour of Reckoning
+1 [INV:233] Aura Shards
+1 [M14:5] Archangel of Thune
+1 [M13:159] Acidic Slime
+1 [ISD:19] Intangible Virtue
+1 [ICE:278] Swords to Plowshares
+1 [ISD:17] Geist-Honored Monk
+1 [RTR:140] Worldspine Wurm
+1 [C17:8] Teferi's Protection
+1 [M15:178] Hornet Queen
+1 [DGM:155] Selesnya Guildgate
+1 [DGM:68] Emmara Tandris
+1 [DGM:110] Trostani's Summoner
+1 [ISD:199] Parallel Lives
+1 [ZEN:159] Beastmaster Ascension
+1 [5DN:86] Eternal Witness
+1 [WWK:96] Avenger of Zendikar
+1 [RTR:217] Growing Ranks
+1 [ISD:239] Gavony Township
+1 [AKH:242] Evolving Wilds
+1 [CHK:225] Kodama's Reach
+1 [SHM:237] Rhys the Redeemed
+1 [M13:229] Sunpetal Grove
+11 [UNH:140] Forest
+1 [M11:168] Cultivate
+1 [JUD:139] Mirari's Wake
+1 [USG:306] Phyrexian Processor
+1 [3ED:274] Sol Ring
+1 [RTR:123] Druid's Deliverance
+1 [RTR:19] Rootborn Defenses
+1 [RTR:248] Temple Garden
+1 [CON:11] Martial Coup
+1 [RTR:209] Wayfaring Temple
+1 [KLD:226] Panharmonicon
+1 [BNG:165] Temple of Plenty
+1 [RTR:207] Vitu-Ghazi Guildmage
+1 [DKA:11] Increasing Devotion
+12 [UNH:136] Plains
+1 [MBS:15] Phyrexian Rebirth
+1 [FRF:166] Blossoming Sands
+1 [M13:29] Rhox Faithmender
+1 [AKH:183] Sandwurm Convergence
+1 [HOU:6] Crested Sunmare
+1 [SCG:143] Temple of the False God
+1 [ZEN:178] Rampaging Baloths
+1 [KLD:192] Aetherflux Reservoir
+1 [RTR:240] Grove of the Guardian
+1 [RAV:281] Selesnya Sanctuary
+1 [ZEN:214] Graypelt Refuge
+1 [SOI:227] Second Harvest
+1 [GPT:19] Storm Herd
+1 [BFZ:6] Desolation Twin
+SB: 1 [RTR:206] Trostani, Selesnya's Voice
+LAYOUT MAIN:(1,11)(CMC,false,50)|([FRF:166],[BFZ:234],[CMA:245],[AKH:242],[SOI:274],[ISD:239],[ZEN:214],[RTR:240],[DGM:155],[RAV:281],[M13:229],[RTR:248],[BNG:165],[SCG:143],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136])([KLD:165],[SHM:237],[ICE:278],[3ED:274])([ROE:191],[RTR:207],[RTR:123],[RTR:194],[RTR:223],[RTR:146],[CON:11],[RAV:270],[ISD:19])([AVR:171],[5DN:86],[RTR:209],[RTR:19],[C17:8],[M11:168],[CHK:225],[SOM:175],[INV:233],[ZEN:159])([M13:29],[DGM:51],[SOI:227],[KLD:192],[KLD:226],[USG:306],[DST:159],[M14:3],[AKH:2],[RTR:217],[ISD:199])([M13:159],[M14:5],[HOU:6],[ISD:17],[BNG:148],[DKA:11],[AVR:10],[RAV:158],[JUD:139],[M13:174])([RTR:143],[BFZ:26],[ZEN:178],[MBS:15],[AER:123],[RTR:150],[THS:9])([WWK:96],[DGM:68],[GTC:121],[M15:178],[M13:32],[DGM:110],[RAV:21])([AKH:183])([BFZ:6],[GPT:19])([RTR:140])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([RTR:206])
