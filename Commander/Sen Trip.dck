@@ -1,0 +1,92 @@
+1 [AER:171] Planar Bridge
+1 [JR:72] Swords to Plowshares
+1 [C16:94] Propaganda
+1 [C15:281] Command Tower
+1 [C16:250] Darksteel Ingot
+1 [JR:73] Bribery
+1 [ALA:60] Tezzeret the Seeker
+1 [ARC:89] Magister Sphinx
+1 [C16:254] Fellwar Stone
+1 [NPH:164] Unwinding Clock
+1 [EMA:57] Jace, the Mind Sculptor
+1 [MPS:8] Chromatic Lantern
+1 [C16:258] Ichor Wellspring
+1 [ALA:25] Scourglass
+1 [EMN:70] Mind's Dilation
+1 [DIS:174] Hallowed Fountain
+1 [VMA:322] Tundra
+1 [VMA:323] Underground Sea
+1 [C13:250] Obelisk of Esper
+1 [GPT:157] Godless Shrine
+1 [HOU:165] Mirage Mirror
+1 [MM3:239] Marsh Flats
+1 [SOM:176] Mindslaver
+1 [C15:86] Bident of Thassa
+1 [KLD:59] Padeem, Consul of Innovation
+1 [M12:227] Glacial Fortress
+1 [M12:226] Drowned Catacomb
+1 [FNMP:55] Brainstorm
+1 [KTK:34] Clever Impersonator
+1 [C16:202] Gwafa Hazid, Profiteer
+1 [C16:323] Seat of the Synod
+1 [C16:248] Commander's Sphere
+1 [C16:66] Ghostly Prison
+1 [MPS:24] Sol Ring
+1 [MPS:25] Solemn Simulacrum
+1 [CNS:206] Vedalken Orrery
+1 [M14:206] Darksteel Forge
+1 [AER:137] Tezzeret the Schemer
+1 [MM3:224] Orzhov Signet
+1 [V16:7] Memnarch
+1 [AKH:240] Cascading Cataracts
+1 [SOM:201] Semblance Anvil
+1 [C15:55] Thought Vessel
+1 [PCY:45] Rhystic Study
+1 [EMA:232] Sensei's Divining Top
+1 [THS:225] Temple of Deceit
+1 [ALA:42] Etherium Sculptor
+1 [V13:12] Gilded Lotus
+1 [DST:130] Mycosynth Lattice
+1 [THS:227] Temple of Silence
+1 [MPS:54] Wurmcoil Engine
+1 [C16:237] Thopter Foundry
+1 [FNMP:89] Cabal Coffers
+1 [MMA:176] Grand Arbiter Augustin IV
+1 [C16:77] Sphere of Safety
+1 [EMA:39] Arcanis the Omnipotent
+1 [C16:316] Reliquary Tower
+1 [MPS:14] Lightning Greaves
+1 [MPS:17] Mana Vault
+1 [MM3:35] Cyclonic Rift
+1 [ISD:242] Isolated Chapel
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [MPS:16] Mana Crypt
+1 [TSB:3] Celestial Dawn
+1 [MM3:215] Azorius Signet
+1 [MMA:219] Academy Ruins
+1 [ARC:7] Master Transmuter
+1 [DDF:62] Elixir of Immortality
+1 [MM3:219] Dimir Signet
+1 [CN2:144] Phyrexian Arena
+5 [UNH:136] Plains
+1 [HOP:130] Ancient Den
+6 [UNH:137] Island
+2 [UNH:138] Swamp
+1 [BNG:163] Temple of Enlightenment
+1 [EMA:9] Enlightened Tutor
+1 [FUT:160] Cloud Key
+1 [C16:181] Baleful Strix
+1 [MMQ:104] Soothsaying
+1 [GTC:249] Watery Grave
+1 [KTK:239] Polluted Delta
+1 [AKH:42] As Foretold
+1 [FUT:165] Sword of the Meek
+1 [DDO:59] Temple of the False God
+1 [KTK:233] Flooded Strand
+1 [VMA:277] Nevinyrral's Disk
+1 [VMA:313] Scrubland
+1 [KLD:84] Gonti, Lord of Luxury
+1 [HOP:141] Vault of Whispers
+SB: 1 [ARB:109] Sen Triplets
+LAYOUT MAIN:(1,9)(CMC,false,50)|([MPS:16],[AKH:240],[MMA:219],[C15:281],[HOP:141],[C16:323],[HOP:130],[VMA:323],[VMA:313],[VMA:322],[KTK:233],[MM3:239],[KTK:239],[M12:226],[ISD:242],[M12:227],[BNG:163],[THS:225],[THS:227],[DDO:59],[GTC:249],[DIS:174],[GPT:157],[C16:316],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:137],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:138],[UNH:138],[FNMP:89],[M15:248])([MPS:24],[MPS:17],[JR:72],[EMA:9],[EMA:232],[DDF:62],[MMQ:104],[FNMP:55])([MPS:14],[MM3:35],[MM3:219],[MM3:215],[MM3:224],[ALA:42],[C16:254],[FUT:165],[C16:237],[C15:55],[C16:258],[C16:181])([MPS:8],[C16:94],[SOM:201],[FUT:160],[C16:202],[C16:66],[HOU:165],[C16:250],[C16:248],[C13:250],[CN2:144],[PCY:45],[TSB:3],[AKH:42])([KLD:59],[MPS:25],[KTK:34],[MMA:176],[KLD:84],[C15:86],[VMA:277],[CNS:206],[NPH:164],[EMA:57],[AER:137],[ARC:7])([V13:12],[JR:73],[C16:77],[ALA:25],[ALA:60])([MPS:54],[AER:171],[DST:130],[SOM:176],[EMA:39])([EMN:70],[ARC:89],[V16:7])([M14:206])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ARB:109])
